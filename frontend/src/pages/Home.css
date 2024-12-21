@@ -1,0 +1,34 @@
+div {
+    margin: 10px;
+}
+
+span {
+    margin: '10px';
+    color: 'red';
+}
+
+button {
+    align-items: 'center';
+    margin: 10px;
+}
+
+.container {
+    display: 'flex';
+    flex-direction: 'column' as 'column';
+    justify-Content: 'center';
+    align-items: 'center';
+}
+
+.wrapper {
+    display: 'flex';
+    justify-content: 'center';
+    align-items: 'center';
+    height: '100vh';
+    width: '100vw';
+
+}
+
+input {
+    margin: 10px;
+    size: '50';
+}

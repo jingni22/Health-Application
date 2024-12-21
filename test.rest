@@ -1,0 +1,34 @@
+###
+
+GET http://localhost:1337/setup
+
+###
+
+GET http://localhost:1337
+
+###
+
+POST http://localhost:1337
+Content-Type: application/json
+
+{
+    "username": "jing",
+    "password": "password"
+}
+
+###
+
+POST http://localhost:1337/login
+Content-Type: application/json
+
+{
+    "username": "jing",
+    "password": "password123"
+}
+
+POST http://localhost:1337/UserMedicalTest
+Content-Type: application/json
+
+{
+    "username": "hello"
+}

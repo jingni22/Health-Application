@@ -1,0 +1,24 @@
+.wrapper {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 20px;
+}
+
+.bottom {
+    margin-top: 20px;
+    text-align: center;
+}
+
+button {
+    margin: 0 10px;
+}
+
+span {
+    margin: '10px';
+    color: 'red';
+}
+
+select {
+    height: 30px;
+}

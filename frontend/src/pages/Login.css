@@ -1,0 +1,54 @@
+.divItems {
+    padding: 10px;
+    align-items: center;
+    white-space: nowrap;
+}
+
+button {
+    align-items: left;
+    margin: 10px;
+}
+
+
+span {
+    margin: '10px';
+    color: red;
+    font-weight: normal;
+    font-size: '13px';
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.wrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    width: 100vw;
+}
+
+img {
+    width: 20px;
+    height: auto;
+    vertical-align: middle;
+    padding: 10px;
+    filter: opacity(50%);
+}
+
+img:hover {
+    filter: opacity(100%);
+}
+
+input {
+    box-sizing: border-box;
+    padding: 7px 12px;
+    margin: 8px 0;
+    border: 1.5px solid rgb(184, 184, 184);
+    border-radius: 5px;
+    font-weight: normal;
+}

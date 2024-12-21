@@ -1,0 +1,605 @@
+{"level":"INFO","message":"[12:19:05.447 AM]: Creating new connection object"}
+{"level":"INFO","message":"[12:19:05.879 AM]: Creating Connection[id: ed863cc3-ba3a-4d6f-95ab-48ae6e1d519d] with host: pppipap-mza35986.snowflakecomputing.com, account: pppipap-mza35986, accessUrl: https://pppipap-mza35986.snowflakecomputing.com, user: dankmimi, role: ACCOUNTADMIN, database: HEALTH_APPLICATION, schema: PUBLIC, warehouse: undefined, proxy was not configured, password is provided, region: undefined, authenticator: SNOWFLAKE_JWT, ocsp mode: FAIL_OPEN, os: win32, os version: 10.0.19045"}
+{"level":"INFO","message":"[12:19:05.881 AM]: Connection[id: ed863cc3-ba3a-4d6f-95ab-48ae6e1d519d] additional details: passcode in password is provided, passcode is not provided, private key is not provided, application: undefined, client name: snowflake-sdk, client version: 2.0.1, retry timeout: 300, private key path: ../../rsa_key.p8, private key pass is provided, client store temporary credential: false, browser response timeout: 120000"}
+{"level":"INFO","message":"[12:19:05.883 AM]: Connection[id: ed863cc3-ba3a-4d6f-95ab-48ae6e1d519d] - connection object created successfully."}
+{"level":"INFO","message":"[12:19:05.883 AM]: Connection[id: ed863cc3-ba3a-4d6f-95ab-48ae6e1d519d] - connecting. Associated Snowflake domain: GLOBAL"}
+{"level":"INFO","message":"[12:19:05.905 AM]: Connection[id: ed863cc3-ba3a-4d6f-95ab-48ae6e1d519d] - authentication successful using: SNOWFLAKE_JWT"}
+{"level":"INFO","message":"[12:19:05.906 AM]: Trying to initialize Easy Logging"}
+{"level":"INFO","message":"[12:19:05.911 AM]: No client config detected."}
+{"level":"INFO","message":"[12:19:05.912 AM]: No config file path found. Client config will not be used."}
+{"level":"INFO","message":"[12:19:05.913 AM]: Easy Logging is disabled as no config has been found"}
+{"level":"INFO","message":"[12:19:05.919 AM]: Connection[id: ed863cc3-ba3a-4d6f-95ab-48ae6e1d519d] - connected successfully after 36.025399999693036 milliseconds"}
+{"level":"INFO","message":"[1:16:02.257 AM]: Creating new connection object"}
+{"level":"INFO","message":"[1:16:02.357 AM]: Creating Connection[id: 367af88b-cbe1-4180-9329-01233f72ff60] with host: pppipap-mza35986.snowflakecomputing.com, account: pppipap-mza35986, accessUrl: https://pppipap-mza35986.snowflakecomputing.com, user: dankmimi, role: ACCOUNTADMIN, database: HEALTH_APPLICATION, schema: PUBLIC, warehouse: undefined, proxy was not configured, password is provided, region: undefined, authenticator: SNOWFLAKE_JWT, ocsp mode: FAIL_OPEN, os: win32, os version: 10.0.19045"}
+{"level":"INFO","message":"[1:16:02.358 AM]: Connection[id: 367af88b-cbe1-4180-9329-01233f72ff60] additional details: passcode in password is provided, passcode is not provided, private key is not provided, application: undefined, client name: snowflake-sdk, client version: 2.0.1, retry timeout: 300, private key path: ../../rsa_key.p8, private key pass is provided, client store temporary credential: false, browser response timeout: 120000"}
+{"level":"INFO","message":"[1:16:02.359 AM]: Connection[id: 367af88b-cbe1-4180-9329-01233f72ff60] - connection object created successfully."}
+{"level":"INFO","message":"[1:16:02.360 AM]: Connection[id: 367af88b-cbe1-4180-9329-01233f72ff60] - connecting. Associated Snowflake domain: GLOBAL"}
+{"level":"INFO","message":"[1:16:02.376 AM]: Connection[id: 367af88b-cbe1-4180-9329-01233f72ff60] - authentication successful using: SNOWFLAKE_JWT"}
+{"level":"INFO","message":"[1:16:02.376 AM]: Trying to initialize Easy Logging"}
+{"level":"INFO","message":"[1:16:02.380 AM]: No client config detected."}
+{"level":"INFO","message":"[1:16:02.380 AM]: No config file path found. Client config will not be used."}
+{"level":"INFO","message":"[1:16:02.381 AM]: Easy Logging is disabled as no config has been found"}
+{"level":"INFO","message":"[1:16:02.385 AM]: Connection[id: 367af88b-cbe1-4180-9329-01233f72ff60] - connected successfully after 25.07999999821186 milliseconds"}
+{"level":"INFO","message":"[1:16:39.546 AM]: Creating new connection object"}
+{"level":"INFO","message":"[1:16:39.640 AM]: Creating Connection[id: 3ea8f73b-82de-4b43-8b6f-dfe0787979e8] with host: pppipap-mza35986.snowflakecomputing.com, account: pppipap-mza35986, accessUrl: https://pppipap-mza35986.snowflakecomputing.com, user: dankmimi, role: ACCOUNTADMIN, database: HEALTH_APPLICATION, schema: PUBLIC, warehouse: undefined, proxy was not configured, password is provided, region: undefined, authenticator: SNOWFLAKE_JWT, ocsp mode: FAIL_OPEN, os: win32, os version: 10.0.19045"}
+{"level":"INFO","message":"[1:16:39.641 AM]: Connection[id: 3ea8f73b-82de-4b43-8b6f-dfe0787979e8] additional details: passcode in password is provided, passcode is not provided, private key is not provided, application: undefined, client name: snowflake-sdk, client version: 2.0.1, retry timeout: 300, private key path: ../../rsa_key.p8, private key pass is provided, client store temporary credential: false, browser response timeout: 120000"}
+{"level":"INFO","message":"[1:16:39.642 AM]: Connection[id: 3ea8f73b-82de-4b43-8b6f-dfe0787979e8] - connection object created successfully."}
+{"level":"INFO","message":"[1:16:39.643 AM]: Connection[id: 3ea8f73b-82de-4b43-8b6f-dfe0787979e8] - connecting. Associated Snowflake domain: GLOBAL"}
+{"level":"INFO","message":"[1:16:39.657 AM]: Connection[id: 3ea8f73b-82de-4b43-8b6f-dfe0787979e8] - authentication successful using: SNOWFLAKE_JWT"}
+{"level":"INFO","message":"[1:16:39.658 AM]: Trying to initialize Easy Logging"}
+{"level":"INFO","message":"[1:16:39.662 AM]: No client config detected."}
+{"level":"INFO","message":"[1:16:39.663 AM]: No config file path found. Client config will not be used."}
+{"level":"INFO","message":"[1:16:39.663 AM]: Easy Logging is disabled as no config has been found"}
+{"level":"INFO","message":"[1:16:39.667 AM]: Connection[id: 3ea8f73b-82de-4b43-8b6f-dfe0787979e8] - connected successfully after 24.71730000153184 milliseconds"}
+{"level":"INFO","message":"[1:22:27.146 AM]: Creating new connection object"}
+{"level":"INFO","message":"[1:22:27.253 AM]: Creating Connection[id: 56ec118a-11cd-41d0-b41d-580acc6c5d07] with host: pppipap-mza35986.snowflakecomputing.com, account: pppipap-mza35986, accessUrl: https://pppipap-mza35986.snowflakecomputing.com, user: dankmimi, role: ACCOUNTADMIN, database: HEALTH_APPLICATION, schema: PUBLIC, warehouse: undefined, proxy was not configured, password is provided, region: undefined, authenticator: SNOWFLAKE_JWT, ocsp mode: FAIL_OPEN, os: win32, os version: 10.0.19045"}
+{"level":"INFO","message":"[1:22:27.254 AM]: Connection[id: 56ec118a-11cd-41d0-b41d-580acc6c5d07] additional details: passcode in password is provided, passcode is not provided, private key is not provided, application: undefined, client name: snowflake-sdk, client version: 2.0.1, retry timeout: 300, private key path: ../../rsa_key.p8, private key pass is provided, client store temporary credential: false, browser response timeout: 120000"}
+{"level":"INFO","message":"[1:22:27.255 AM]: Connection[id: 56ec118a-11cd-41d0-b41d-580acc6c5d07] - connection object created successfully."}
+{"level":"INFO","message":"[1:22:27.256 AM]: Connection[id: 56ec118a-11cd-41d0-b41d-580acc6c5d07] - connecting. Associated Snowflake domain: GLOBAL"}
+{"level":"INFO","message":"[1:22:27.271 AM]: Connection[id: 56ec118a-11cd-41d0-b41d-580acc6c5d07] - authentication successful using: SNOWFLAKE_JWT"}
+{"level":"INFO","message":"[1:22:27.272 AM]: Trying to initialize Easy Logging"}
+{"level":"INFO","message":"[1:22:27.276 AM]: No client config detected."}
+{"level":"INFO","message":"[1:22:27.277 AM]: No config file path found. Client config will not be used."}
+{"level":"INFO","message":"[1:22:27.277 AM]: Easy Logging is disabled as no config has been found"}
+{"level":"INFO","message":"[1:22:27.282 AM]: Connection[id: 56ec118a-11cd-41d0-b41d-580acc6c5d07] - connected successfully after 26.14479999989271 milliseconds"}
+{"level":"INFO","message":"[1:24:21.148 AM]: Creating new connection object"}
+{"level":"INFO","message":"[1:24:21.270 AM]: Creating Connection[id: a8e33c38-aa63-4fbd-bb03-c9f31de39567] with host: pppipap-mza35986.snowflakecomputing.com, account: pppipap-mza35986, accessUrl: https://pppipap-mza35986.snowflakecomputing.com, user: dankmimi, role: ACCOUNTADMIN, database: HEALTH_APPLICATION, schema: PUBLIC, warehouse: undefined, proxy was not configured, password is provided, region: undefined, authenticator: SNOWFLAKE_JWT, ocsp mode: FAIL_OPEN, os: win32, os version: 10.0.19045"}
+{"level":"INFO","message":"[1:24:21.273 AM]: Connection[id: a8e33c38-aa63-4fbd-bb03-c9f31de39567] additional details: passcode in password is provided, passcode is not provided, private key is not provided, application: undefined, client name: snowflake-sdk, client version: 2.0.1, retry timeout: 300, private key path: ../../rsa_key.p8, private key pass is provided, client store temporary credential: false, browser response timeout: 120000"}
+{"level":"INFO","message":"[1:24:21.274 AM]: Connection[id: a8e33c38-aa63-4fbd-bb03-c9f31de39567] - connection object created successfully."}
+{"level":"INFO","message":"[1:24:21.275 AM]: Connection[id: a8e33c38-aa63-4fbd-bb03-c9f31de39567] - connecting. Associated Snowflake domain: GLOBAL"}
+{"level":"INFO","message":"[1:24:21.325 AM]: Connection[id: a8e33c38-aa63-4fbd-bb03-c9f31de39567] - authentication successful using: SNOWFLAKE_JWT"}
+{"level":"INFO","message":"[1:24:21.333 AM]: Trying to initialize Easy Logging"}
+{"level":"INFO","message":"[1:24:21.348 AM]: No client config detected."}
+{"level":"INFO","message":"[1:24:21.349 AM]: No config file path found. Client config will not be used."}
+{"level":"INFO","message":"[1:24:21.350 AM]: Easy Logging is disabled as no config has been found"}
+{"level":"INFO","message":"[1:24:21.357 AM]: Connection[id: a8e33c38-aa63-4fbd-bb03-c9f31de39567] - connected successfully after 81.92770000174642 milliseconds"}
+{"level":"INFO","message":"[1:26:05.514 AM]: Creating new connection object"}
+{"level":"INFO","message":"[1:26:05.605 AM]: Creating Connection[id: 37b97125-5783-4d68-9f3b-14d1886db75e] with host: pppipap-mza35986.snowflakecomputing.com, account: pppipap-mza35986, accessUrl: https://pppipap-mza35986.snowflakecomputing.com, user: dankmimi, role: ACCOUNTADMIN, database: HEALTH_APPLICATION, schema: PUBLIC, warehouse: undefined, proxy was not configured, password is provided, region: undefined, authenticator: SNOWFLAKE_JWT, ocsp mode: FAIL_OPEN, os: win32, os version: 10.0.19045"}
+{"level":"INFO","message":"[1:26:05.606 AM]: Connection[id: 37b97125-5783-4d68-9f3b-14d1886db75e] additional details: passcode in password is provided, passcode is not provided, private key is not provided, application: undefined, client name: snowflake-sdk, client version: 2.0.1, retry timeout: 300, private key path: ../../rsa_key.p8, private key pass is provided, client store temporary credential: false, browser response timeout: 120000"}
+{"level":"INFO","message":"[1:26:05.607 AM]: Connection[id: 37b97125-5783-4d68-9f3b-14d1886db75e] - connection object created successfully."}
+{"level":"INFO","message":"[1:26:05.608 AM]: Connection[id: 37b97125-5783-4d68-9f3b-14d1886db75e] - connecting. Associated Snowflake domain: GLOBAL"}
+{"level":"INFO","message":"[1:26:05.623 AM]: Connection[id: 37b97125-5783-4d68-9f3b-14d1886db75e] - authentication successful using: SNOWFLAKE_JWT"}
+{"level":"INFO","message":"[1:26:05.624 AM]: Trying to initialize Easy Logging"}
+{"level":"INFO","message":"[1:26:05.627 AM]: No client config detected."}
+{"level":"INFO","message":"[1:26:05.628 AM]: No config file path found. Client config will not be used."}
+{"level":"INFO","message":"[1:26:05.628 AM]: Easy Logging is disabled as no config has been found"}
+{"level":"INFO","message":"[1:26:05.632 AM]: Connection[id: 37b97125-5783-4d68-9f3b-14d1886db75e] - connected successfully after 24.275100000202656 milliseconds"}
+{"level":"INFO","message":"[1:29:59.627 AM]: Creating new connection object"}
+{"level":"INFO","message":"[1:29:59.718 AM]: Creating Connection[id: a95ddccb-b8da-4310-8343-0ad1cd30f3a7] with host: pppipap-mza35986.snowflakecomputing.com, account: pppipap-mza35986, accessUrl: https://pppipap-mza35986.snowflakecomputing.com, user: dankmimi, role: ACCOUNTADMIN, database: HEALTH_APPLICATION, schema: PUBLIC, warehouse: undefined, proxy was not configured, password is provided, region: undefined, authenticator: SNOWFLAKE_JWT, ocsp mode: FAIL_OPEN, os: win32, os version: 10.0.19045"}
+{"level":"INFO","message":"[1:29:59.719 AM]: Connection[id: a95ddccb-b8da-4310-8343-0ad1cd30f3a7] additional details: passcode in password is provided, passcode is not provided, private key is not provided, application: undefined, client name: snowflake-sdk, client version: 2.0.1, retry timeout: 300, private key path: ../../rsa_key.p8, private key pass is provided, client store temporary credential: false, browser response timeout: 120000"}
+{"level":"INFO","message":"[1:29:59.721 AM]: Connection[id: a95ddccb-b8da-4310-8343-0ad1cd30f3a7] - connection object created successfully."}
+{"level":"INFO","message":"[1:29:59.721 AM]: Connection[id: a95ddccb-b8da-4310-8343-0ad1cd30f3a7] - connecting. Associated Snowflake domain: GLOBAL"}
+{"level":"INFO","message":"[1:29:59.736 AM]: Connection[id: a95ddccb-b8da-4310-8343-0ad1cd30f3a7] - authentication successful using: SNOWFLAKE_JWT"}
+{"level":"INFO","message":"[1:29:59.737 AM]: Trying to initialize Easy Logging"}
+{"level":"INFO","message":"[1:29:59.740 AM]: No client config detected."}
+{"level":"INFO","message":"[1:29:59.741 AM]: No config file path found. Client config will not be used."}
+{"level":"INFO","message":"[1:29:59.741 AM]: Easy Logging is disabled as no config has been found"}
+{"level":"INFO","message":"[1:29:59.745 AM]: Connection[id: a95ddccb-b8da-4310-8343-0ad1cd30f3a7] - connected successfully after 24.071800000965595 milliseconds"}
+{"level":"INFO","message":"[1:53:47.792 AM]: Creating new connection object"}
+{"level":"INFO","message":"[1:53:47.882 AM]: Creating Connection[id: 7ce35c1c-7ae5-4d32-ba5f-9dfeba46b4ab] with host: pppipap-mza35986.snowflakecomputing.com, account: pppipap-mza35986, accessUrl: https://pppipap-mza35986.snowflakecomputing.com, user: dankmimi, role: ACCOUNTADMIN, database: HEALTH_APPLICATION, schema: PUBLIC, warehouse: undefined, proxy was not configured, password is provided, region: undefined, authenticator: SNOWFLAKE_JWT, ocsp mode: FAIL_OPEN, os: win32, os version: 10.0.19045"}
+{"level":"INFO","message":"[1:53:47.883 AM]: Connection[id: 7ce35c1c-7ae5-4d32-ba5f-9dfeba46b4ab] additional details: passcode in password is provided, passcode is not provided, private key is not provided, application: undefined, client name: snowflake-sdk, client version: 2.0.1, retry timeout: 300, private key path: ../../rsa_key.p8, private key pass is provided, client store temporary credential: false, browser response timeout: 120000"}
+{"level":"INFO","message":"[1:53:47.884 AM]: Connection[id: 7ce35c1c-7ae5-4d32-ba5f-9dfeba46b4ab] - connection object created successfully."}
+{"level":"INFO","message":"[1:53:47.885 AM]: Connection[id: 7ce35c1c-7ae5-4d32-ba5f-9dfeba46b4ab] - connecting. Associated Snowflake domain: GLOBAL"}
+{"level":"INFO","message":"[1:53:47.899 AM]: Connection[id: 7ce35c1c-7ae5-4d32-ba5f-9dfeba46b4ab] - authentication successful using: SNOWFLAKE_JWT"}
+{"level":"INFO","message":"[1:53:47.900 AM]: Trying to initialize Easy Logging"}
+{"level":"INFO","message":"[1:53:47.903 AM]: No client config detected."}
+{"level":"INFO","message":"[1:53:47.904 AM]: No config file path found. Client config will not be used."}
+{"level":"INFO","message":"[1:53:47.904 AM]: Easy Logging is disabled as no config has been found"}
+{"level":"INFO","message":"[1:53:47.909 AM]: Connection[id: 7ce35c1c-7ae5-4d32-ba5f-9dfeba46b4ab] - connected successfully after 23.69419999793172 milliseconds"}
+{"level":"INFO","message":"[2:51:16.121 AM]: Creating new connection object"}
+{"level":"INFO","message":"[2:51:16.226 AM]: Creating Connection[id: edb04fde-116b-4bc7-999d-d6d408a6af99] with host: pppipap-mza35986.snowflakecomputing.com, account: pppipap-mza35986, accessUrl: https://pppipap-mza35986.snowflakecomputing.com, user: dankmimi, role: ACCOUNTADMIN, database: HEALTH_APPLICATION, schema: PUBLIC, warehouse: undefined, proxy was not configured, password is provided, region: undefined, authenticator: SNOWFLAKE_JWT, ocsp mode: FAIL_OPEN, os: win32, os version: 10.0.19045"}
+{"level":"INFO","message":"[2:51:16.228 AM]: Connection[id: edb04fde-116b-4bc7-999d-d6d408a6af99] additional details: passcode in password is provided, passcode is not provided, private key is not provided, application: undefined, client name: snowflake-sdk, client version: 2.0.1, retry timeout: 300, private key path: ../../rsa_key.p8, private key pass is provided, client store temporary credential: false, browser response timeout: 120000"}
+{"level":"INFO","message":"[2:51:16.229 AM]: Connection[id: edb04fde-116b-4bc7-999d-d6d408a6af99] - connection object created successfully."}
+{"level":"INFO","message":"[2:51:16.230 AM]: Connection[id: edb04fde-116b-4bc7-999d-d6d408a6af99] - connecting. Associated Snowflake domain: GLOBAL"}
+{"level":"INFO","message":"[2:51:16.245 AM]: Connection[id: edb04fde-116b-4bc7-999d-d6d408a6af99] - authentication successful using: SNOWFLAKE_JWT"}
+{"level":"INFO","message":"[2:51:16.246 AM]: Trying to initialize Easy Logging"}
+{"level":"INFO","message":"[2:51:16.249 AM]: No client config detected."}
+{"level":"INFO","message":"[2:51:16.250 AM]: No config file path found. Client config will not be used."}
+{"level":"INFO","message":"[2:51:16.250 AM]: Easy Logging is disabled as no config has been found"}
+{"level":"INFO","message":"[2:51:16.255 AM]: Connection[id: edb04fde-116b-4bc7-999d-d6d408a6af99] - connected successfully after 25.858899999409914 milliseconds"}
+{"level":"INFO","message":"[2:53:06.629 AM]: Creating new connection object"}
+{"level":"INFO","message":"[2:53:06.720 AM]: Creating Connection[id: 494f99cd-865f-4478-bb9d-c13f6a976b8c] with host: pppipap-mza35986.snowflakecomputing.com, account: pppipap-mza35986, accessUrl: https://pppipap-mza35986.snowflakecomputing.com, user: dankmimi, role: ACCOUNTADMIN, database: HEALTH_APPLICATION, schema: PUBLIC, warehouse: undefined, proxy was not configured, password is provided, region: undefined, authenticator: SNOWFLAKE_JWT, ocsp mode: FAIL_OPEN, os: win32, os version: 10.0.19045"}
+{"level":"INFO","message":"[2:53:06.721 AM]: Connection[id: 494f99cd-865f-4478-bb9d-c13f6a976b8c] additional details: passcode in password is provided, passcode is not provided, private key is not provided, application: undefined, client name: snowflake-sdk, client version: 2.0.1, retry timeout: 300, private key path: ../../rsa_key.p8, private key pass is provided, client store temporary credential: false, browser response timeout: 120000"}
+{"level":"INFO","message":"[2:53:06.722 AM]: Connection[id: 494f99cd-865f-4478-bb9d-c13f6a976b8c] - connection object created successfully."}
+{"level":"INFO","message":"[2:53:06.723 AM]: Connection[id: 494f99cd-865f-4478-bb9d-c13f6a976b8c] - connecting. Associated Snowflake domain: GLOBAL"}
+{"level":"INFO","message":"[2:53:06.738 AM]: Connection[id: 494f99cd-865f-4478-bb9d-c13f6a976b8c] - authentication successful using: SNOWFLAKE_JWT"}
+{"level":"INFO","message":"[2:53:06.739 AM]: Trying to initialize Easy Logging"}
+{"level":"INFO","message":"[2:53:06.743 AM]: No client config detected."}
+{"level":"INFO","message":"[2:53:06.743 AM]: No config file path found. Client config will not be used."}
+{"level":"INFO","message":"[2:53:06.743 AM]: Easy Logging is disabled as no config has been found"}
+{"level":"INFO","message":"[2:53:06.748 AM]: Connection[id: 494f99cd-865f-4478-bb9d-c13f6a976b8c] - connected successfully after 24.827800001949072 milliseconds"}
+{"level":"INFO","message":"[4:00:30.809 AM]: Creating new connection object"}
+{"level":"INFO","message":"[4:00:30.930 AM]: Creating Connection[id: 50e8cf5f-e771-46bb-800a-475db57406c7] with host: pppipap-mza35986.snowflakecomputing.com, account: pppipap-mza35986, accessUrl: https://pppipap-mza35986.snowflakecomputing.com, user: dankmimi, role: ACCOUNTADMIN, database: HEALTH_APPLICATION, schema: PUBLIC, warehouse: undefined, proxy was not configured, password is provided, region: undefined, authenticator: SNOWFLAKE_JWT, ocsp mode: FAIL_OPEN, os: win32, os version: 10.0.19045"}
+{"level":"INFO","message":"[4:00:30.931 AM]: Connection[id: 50e8cf5f-e771-46bb-800a-475db57406c7] additional details: passcode in password is provided, passcode is not provided, private key is not provided, application: undefined, client name: snowflake-sdk, client version: 2.0.1, retry timeout: 300, private key path: ../../rsa_key.p8, private key pass is provided, client store temporary credential: false, browser response timeout: 120000"}
+{"level":"INFO","message":"[4:00:30.932 AM]: Connection[id: 50e8cf5f-e771-46bb-800a-475db57406c7] - connection object created successfully."}
+{"level":"INFO","message":"[4:00:30.933 AM]: Connection[id: 50e8cf5f-e771-46bb-800a-475db57406c7] - connecting. Associated Snowflake domain: GLOBAL"}
+{"level":"INFO","message":"[4:00:30.950 AM]: Connection[id: 50e8cf5f-e771-46bb-800a-475db57406c7] - authentication successful using: SNOWFLAKE_JWT"}
+{"level":"INFO","message":"[4:00:30.951 AM]: Trying to initialize Easy Logging"}
+{"level":"INFO","message":"[4:00:30.954 AM]: No client config detected."}
+{"level":"INFO","message":"[4:00:30.955 AM]: No config file path found. Client config will not be used."}
+{"level":"INFO","message":"[4:00:30.955 AM]: Easy Logging is disabled as no config has been found"}
+{"level":"INFO","message":"[4:00:30.959 AM]: Connection[id: 50e8cf5f-e771-46bb-800a-475db57406c7] - connected successfully after 26.66159999743104 milliseconds"}
+{"level":"INFO","message":"[4:14:46.119 AM]: Creating new connection object"}
+{"level":"INFO","message":"[4:14:46.207 AM]: Creating Connection[id: 3e4d8634-05d4-4f5a-a970-63a0c7d7e4b2] with host: pppipap-mza35986.snowflakecomputing.com, account: pppipap-mza35986, accessUrl: https://pppipap-mza35986.snowflakecomputing.com, user: dankmimi, role: ACCOUNTADMIN, database: HEALTH_APPLICATION, schema: PUBLIC, warehouse: undefined, proxy was not configured, password is provided, region: undefined, authenticator: SNOWFLAKE_JWT, ocsp mode: FAIL_OPEN, os: win32, os version: 10.0.19045"}
+{"level":"INFO","message":"[4:14:46.208 AM]: Connection[id: 3e4d8634-05d4-4f5a-a970-63a0c7d7e4b2] additional details: passcode in password is provided, passcode is not provided, private key is not provided, application: undefined, client name: snowflake-sdk, client version: 2.0.1, retry timeout: 300, private key path: ../../rsa_key.p8, private key pass is provided, client store temporary credential: false, browser response timeout: 120000"}
+{"level":"INFO","message":"[4:14:46.209 AM]: Connection[id: 3e4d8634-05d4-4f5a-a970-63a0c7d7e4b2] - connection object created successfully."}
+{"level":"INFO","message":"[4:14:46.210 AM]: Connection[id: 3e4d8634-05d4-4f5a-a970-63a0c7d7e4b2] - connecting. Associated Snowflake domain: GLOBAL"}
+{"level":"INFO","message":"[4:14:46.223 AM]: Connection[id: 3e4d8634-05d4-4f5a-a970-63a0c7d7e4b2] - authentication successful using: SNOWFLAKE_JWT"}
+{"level":"INFO","message":"[4:14:46.224 AM]: Trying to initialize Easy Logging"}
+{"level":"INFO","message":"[4:14:46.228 AM]: No client config detected."}
+{"level":"INFO","message":"[4:14:46.228 AM]: No config file path found. Client config will not be used."}
+{"level":"INFO","message":"[4:14:46.228 AM]: Easy Logging is disabled as no config has been found"}
+{"level":"INFO","message":"[4:14:46.233 AM]: Connection[id: 3e4d8634-05d4-4f5a-a970-63a0c7d7e4b2] - connected successfully after 23.21009999886155 milliseconds"}
+{"level":"INFO","message":"[4:15:47.010 AM]: Creating new connection object"}
+{"level":"INFO","message":"[4:15:47.107 AM]: Creating Connection[id: 92aa4260-e49b-4c04-ba8e-1791cff924d9] with host: pppipap-mza35986.snowflakecomputing.com, account: pppipap-mza35986, accessUrl: https://pppipap-mza35986.snowflakecomputing.com, user: dankmimi, role: ACCOUNTADMIN, database: HEALTH_APPLICATION, schema: PUBLIC, warehouse: undefined, proxy was not configured, password is provided, region: undefined, authenticator: SNOWFLAKE_JWT, ocsp mode: FAIL_OPEN, os: win32, os version: 10.0.19045"}
+{"level":"INFO","message":"[4:15:47.108 AM]: Connection[id: 92aa4260-e49b-4c04-ba8e-1791cff924d9] additional details: passcode in password is provided, passcode is not provided, private key is not provided, application: undefined, client name: snowflake-sdk, client version: 2.0.1, retry timeout: 300, private key path: ../../rsa_key.p8, private key pass is provided, client store temporary credential: false, browser response timeout: 120000"}
+{"level":"INFO","message":"[4:15:47.110 AM]: Connection[id: 92aa4260-e49b-4c04-ba8e-1791cff924d9] - connection object created successfully."}
+{"level":"INFO","message":"[4:15:47.110 AM]: Connection[id: 92aa4260-e49b-4c04-ba8e-1791cff924d9] - connecting. Associated Snowflake domain: GLOBAL"}
+{"level":"INFO","message":"[4:15:47.125 AM]: Connection[id: 92aa4260-e49b-4c04-ba8e-1791cff924d9] - authentication successful using: SNOWFLAKE_JWT"}
+{"level":"INFO","message":"[4:15:47.126 AM]: Trying to initialize Easy Logging"}
+{"level":"INFO","message":"[4:15:47.130 AM]: No client config detected."}
+{"level":"INFO","message":"[4:15:47.130 AM]: No config file path found. Client config will not be used."}
+{"level":"INFO","message":"[4:15:47.131 AM]: Easy Logging is disabled as no config has been found"}
+{"level":"INFO","message":"[4:15:47.135 AM]: Connection[id: 92aa4260-e49b-4c04-ba8e-1791cff924d9] - connected successfully after 24.227800000458956 milliseconds"}
+{"level":"INFO","message":"[4:17:01.403 AM]: Creating new connection object"}
+{"level":"INFO","message":"[4:17:01.489 AM]: Creating Connection[id: be103d8e-d211-4fa8-85cf-137bb628345c] with host: pppipap-mza35986.snowflakecomputing.com, account: pppipap-mza35986, accessUrl: https://pppipap-mza35986.snowflakecomputing.com, user: dankmimi, role: ACCOUNTADMIN, database: HEALTH_APPLICATION, schema: PUBLIC, warehouse: undefined, proxy was not configured, password is provided, region: undefined, authenticator: SNOWFLAKE_JWT, ocsp mode: FAIL_OPEN, os: win32, os version: 10.0.19045"}
+{"level":"INFO","message":"[4:17:01.490 AM]: Connection[id: be103d8e-d211-4fa8-85cf-137bb628345c] additional details: passcode in password is provided, passcode is not provided, private key is not provided, application: undefined, client name: snowflake-sdk, client version: 2.0.1, retry timeout: 300, private key path: ../../rsa_key.p8, private key pass is provided, client store temporary credential: false, browser response timeout: 120000"}
+{"level":"INFO","message":"[4:17:01.491 AM]: Connection[id: be103d8e-d211-4fa8-85cf-137bb628345c] - connection object created successfully."}
+{"level":"INFO","message":"[4:17:01.492 AM]: Connection[id: be103d8e-d211-4fa8-85cf-137bb628345c] - connecting. Associated Snowflake domain: GLOBAL"}
+{"level":"INFO","message":"[4:17:01.506 AM]: Connection[id: be103d8e-d211-4fa8-85cf-137bb628345c] - authentication successful using: SNOWFLAKE_JWT"}
+{"level":"INFO","message":"[4:17:01.506 AM]: Trying to initialize Easy Logging"}
+{"level":"INFO","message":"[4:17:01.510 AM]: No client config detected."}
+{"level":"INFO","message":"[4:17:01.510 AM]: No config file path found. Client config will not be used."}
+{"level":"INFO","message":"[4:17:01.511 AM]: Easy Logging is disabled as no config has been found"}
+{"level":"INFO","message":"[4:17:01.514 AM]: Connection[id: be103d8e-d211-4fa8-85cf-137bb628345c] - connected successfully after 22.556099999696016 milliseconds"}
+{"level":"INFO","message":"[4:18:44.974 AM]: Creating new connection object"}
+{"level":"INFO","message":"[4:18:45.065 AM]: Creating Connection[id: ca15853a-8c1f-4b24-a511-1470d5c082fc] with host: pppipap-mza35986.snowflakecomputing.com, account: pppipap-mza35986, accessUrl: https://pppipap-mza35986.snowflakecomputing.com, user: dankmimi, role: ACCOUNTADMIN, database: HEALTH_APPLICATION, schema: PUBLIC, warehouse: undefined, proxy was not configured, password is provided, region: undefined, authenticator: SNOWFLAKE_JWT, ocsp mode: FAIL_OPEN, os: win32, os version: 10.0.19045"}
+{"level":"INFO","message":"[4:18:45.066 AM]: Connection[id: ca15853a-8c1f-4b24-a511-1470d5c082fc] additional details: passcode in password is provided, passcode is not provided, private key is not provided, application: undefined, client name: snowflake-sdk, client version: 2.0.1, retry timeout: 300, private key path: ../../rsa_key.p8, private key pass is provided, client store temporary credential: false, browser response timeout: 120000"}
+{"level":"INFO","message":"[4:18:45.067 AM]: Connection[id: ca15853a-8c1f-4b24-a511-1470d5c082fc] - connection object created successfully."}
+{"level":"INFO","message":"[4:18:45.068 AM]: Connection[id: ca15853a-8c1f-4b24-a511-1470d5c082fc] - connecting. Associated Snowflake domain: GLOBAL"}
+{"level":"INFO","message":"[4:18:45.082 AM]: Connection[id: ca15853a-8c1f-4b24-a511-1470d5c082fc] - authentication successful using: SNOWFLAKE_JWT"}
+{"level":"INFO","message":"[4:18:45.083 AM]: Trying to initialize Easy Logging"}
+{"level":"INFO","message":"[4:18:45.086 AM]: No client config detected."}
+{"level":"INFO","message":"[4:18:45.087 AM]: No config file path found. Client config will not be used."}
+{"level":"INFO","message":"[4:18:45.087 AM]: Easy Logging is disabled as no config has been found"}
+{"level":"INFO","message":"[4:18:45.091 AM]: Connection[id: ca15853a-8c1f-4b24-a511-1470d5c082fc] - connected successfully after 23.489999998360872 milliseconds"}
+{"level":"INFO","message":"[4:19:30.608 AM]: Creating new connection object"}
+{"level":"INFO","message":"[4:19:30.697 AM]: Creating Connection[id: 5aaa36f0-191b-4acb-a135-7a4a2a7114dd] with host: pppipap-mza35986.snowflakecomputing.com, account: pppipap-mza35986, accessUrl: https://pppipap-mza35986.snowflakecomputing.com, user: dankmimi, role: ACCOUNTADMIN, database: HEALTH_APPLICATION, schema: PUBLIC, warehouse: undefined, proxy was not configured, password is provided, region: undefined, authenticator: SNOWFLAKE_JWT, ocsp mode: FAIL_OPEN, os: win32, os version: 10.0.19045"}
+{"level":"INFO","message":"[4:19:30.698 AM]: Connection[id: 5aaa36f0-191b-4acb-a135-7a4a2a7114dd] additional details: passcode in password is provided, passcode is not provided, private key is not provided, application: undefined, client name: snowflake-sdk, client version: 2.0.1, retry timeout: 300, private key path: ../../rsa_key.p8, private key pass is provided, client store temporary credential: false, browser response timeout: 120000"}
+{"level":"INFO","message":"[4:19:30.699 AM]: Connection[id: 5aaa36f0-191b-4acb-a135-7a4a2a7114dd] - connection object created successfully."}
+{"level":"INFO","message":"[4:19:30.700 AM]: Connection[id: 5aaa36f0-191b-4acb-a135-7a4a2a7114dd] - connecting. Associated Snowflake domain: GLOBAL"}
+{"level":"INFO","message":"[4:19:30.713 AM]: Connection[id: 5aaa36f0-191b-4acb-a135-7a4a2a7114dd] - authentication successful using: SNOWFLAKE_JWT"}
+{"level":"INFO","message":"[4:19:30.714 AM]: Trying to initialize Easy Logging"}
+{"level":"INFO","message":"[4:19:30.717 AM]: No client config detected."}
+{"level":"INFO","message":"[4:19:30.717 AM]: No config file path found. Client config will not be used."}
+{"level":"INFO","message":"[4:19:30.718 AM]: Easy Logging is disabled as no config has been found"}
+{"level":"INFO","message":"[4:19:30.722 AM]: Connection[id: 5aaa36f0-191b-4acb-a135-7a4a2a7114dd] - connected successfully after 22.086400002241135 milliseconds"}
+{"level":"INFO","message":"[4:47:32.448 AM]: Creating new connection object"}
+{"level":"INFO","message":"[4:47:32.536 AM]: Creating Connection[id: 29fc8070-8d26-4fae-8f53-a4ce803e8c1c] with host: pppipap-mza35986.snowflakecomputing.com, account: pppipap-mza35986, accessUrl: https://pppipap-mza35986.snowflakecomputing.com, user: dankmimi, role: ACCOUNTADMIN, database: HEALTH_APPLICATION, schema: PUBLIC, warehouse: undefined, proxy was not configured, password is provided, region: undefined, authenticator: SNOWFLAKE_JWT, ocsp mode: FAIL_OPEN, os: win32, os version: 10.0.19045"}
+{"level":"INFO","message":"[4:47:32.537 AM]: Connection[id: 29fc8070-8d26-4fae-8f53-a4ce803e8c1c] additional details: passcode in password is provided, passcode is not provided, private key is not provided, application: undefined, client name: snowflake-sdk, client version: 2.0.1, retry timeout: 300, private key path: ../../rsa_key.p8, private key pass is provided, client store temporary credential: false, browser response timeout: 120000"}
+{"level":"INFO","message":"[4:47:32.539 AM]: Connection[id: 29fc8070-8d26-4fae-8f53-a4ce803e8c1c] - connection object created successfully."}
+{"level":"INFO","message":"[4:47:32.539 AM]: Connection[id: 29fc8070-8d26-4fae-8f53-a4ce803e8c1c] - connecting. Associated Snowflake domain: GLOBAL"}
+{"level":"INFO","message":"[4:47:32.553 AM]: Connection[id: 29fc8070-8d26-4fae-8f53-a4ce803e8c1c] - authentication successful using: SNOWFLAKE_JWT"}
+{"level":"INFO","message":"[4:47:32.554 AM]: Trying to initialize Easy Logging"}
+{"level":"INFO","message":"[4:47:32.558 AM]: No client config detected."}
+{"level":"INFO","message":"[4:47:32.558 AM]: No config file path found. Client config will not be used."}
+{"level":"INFO","message":"[4:47:32.559 AM]: Easy Logging is disabled as no config has been found"}
+{"level":"INFO","message":"[4:47:32.562 AM]: Connection[id: 29fc8070-8d26-4fae-8f53-a4ce803e8c1c] - connected successfully after 23.167399998754263 milliseconds"}
+{"level":"INFO","message":"[4:51:47.060 AM]: Creating new connection object"}
+{"level":"INFO","message":"[4:51:47.160 AM]: Creating Connection[id: 0b39e64f-ce01-459a-b86c-75b57f47d6f1] with host: pppipap-mza35986.snowflakecomputing.com, account: pppipap-mza35986, accessUrl: https://pppipap-mza35986.snowflakecomputing.com, user: dankmimi, role: ACCOUNTADMIN, database: HEALTH_APPLICATION, schema: PUBLIC, warehouse: undefined, proxy was not configured, password is provided, region: undefined, authenticator: SNOWFLAKE_JWT, ocsp mode: FAIL_OPEN, os: win32, os version: 10.0.19045"}
+{"level":"INFO","message":"[4:51:47.162 AM]: Connection[id: 0b39e64f-ce01-459a-b86c-75b57f47d6f1] additional details: passcode in password is provided, passcode is not provided, private key is not provided, application: undefined, client name: snowflake-sdk, client version: 2.0.1, retry timeout: 300, private key path: ../../rsa_key.p8, private key pass is provided, client store temporary credential: false, browser response timeout: 120000"}
+{"level":"INFO","message":"[4:51:47.163 AM]: Connection[id: 0b39e64f-ce01-459a-b86c-75b57f47d6f1] - connection object created successfully."}
+{"level":"INFO","message":"[4:51:47.164 AM]: Connection[id: 0b39e64f-ce01-459a-b86c-75b57f47d6f1] - connecting. Associated Snowflake domain: GLOBAL"}
+{"level":"INFO","message":"[4:51:47.179 AM]: Connection[id: 0b39e64f-ce01-459a-b86c-75b57f47d6f1] - authentication successful using: SNOWFLAKE_JWT"}
+{"level":"INFO","message":"[4:51:47.180 AM]: Trying to initialize Easy Logging"}
+{"level":"INFO","message":"[4:51:47.184 AM]: No client config detected."}
+{"level":"INFO","message":"[4:51:47.184 AM]: No config file path found. Client config will not be used."}
+{"level":"INFO","message":"[4:51:47.185 AM]: Easy Logging is disabled as no config has been found"}
+{"level":"INFO","message":"[4:51:47.189 AM]: Connection[id: 0b39e64f-ce01-459a-b86c-75b57f47d6f1] - connected successfully after 25.057599999010563 milliseconds"}
+{"level":"INFO","message":"[4:55:19.609 AM]: Creating new connection object"}
+{"level":"INFO","message":"[4:55:19.700 AM]: Creating Connection[id: e108273f-fcf9-47d8-81c5-95c37ff4df5c] with host: pppipap-mza35986.snowflakecomputing.com, account: pppipap-mza35986, accessUrl: https://pppipap-mza35986.snowflakecomputing.com, user: dankmimi, role: ACCOUNTADMIN, database: HEALTH_APPLICATION, schema: PUBLIC, warehouse: undefined, proxy was not configured, password is provided, region: undefined, authenticator: SNOWFLAKE_JWT, ocsp mode: FAIL_OPEN, os: win32, os version: 10.0.19045"}
+{"level":"INFO","message":"[4:55:19.701 AM]: Connection[id: e108273f-fcf9-47d8-81c5-95c37ff4df5c] additional details: passcode in password is provided, passcode is not provided, private key is not provided, application: undefined, client name: snowflake-sdk, client version: 2.0.1, retry timeout: 300, private key path: ../../rsa_key.p8, private key pass is provided, client store temporary credential: false, browser response timeout: 120000"}
+{"level":"INFO","message":"[4:55:19.703 AM]: Connection[id: e108273f-fcf9-47d8-81c5-95c37ff4df5c] - connection object created successfully."}
+{"level":"INFO","message":"[4:55:19.703 AM]: Connection[id: e108273f-fcf9-47d8-81c5-95c37ff4df5c] - connecting. Associated Snowflake domain: GLOBAL"}
+{"level":"INFO","message":"[4:55:19.721 AM]: Connection[id: e108273f-fcf9-47d8-81c5-95c37ff4df5c] - authentication successful using: SNOWFLAKE_JWT"}
+{"level":"INFO","message":"[4:55:19.722 AM]: Trying to initialize Easy Logging"}
+{"level":"INFO","message":"[4:55:19.727 AM]: No client config detected."}
+{"level":"INFO","message":"[4:55:19.727 AM]: No config file path found. Client config will not be used."}
+{"level":"INFO","message":"[4:55:19.728 AM]: Easy Logging is disabled as no config has been found"}
+{"level":"INFO","message":"[4:55:19.732 AM]: Connection[id: e108273f-fcf9-47d8-81c5-95c37ff4df5c] - connected successfully after 28.451799999922514 milliseconds"}
+{"level":"INFO","message":"[4:56:45.679 AM]: Creating new connection object"}
+{"level":"INFO","message":"[4:56:45.767 AM]: Creating Connection[id: 4b7e9cd5-cc09-446d-8f06-18f63e9f5318] with host: pppipap-mza35986.snowflakecomputing.com, account: pppipap-mza35986, accessUrl: https://pppipap-mza35986.snowflakecomputing.com, user: dankmimi, role: ACCOUNTADMIN, database: HEALTH_APPLICATION, schema: PUBLIC, warehouse: undefined, proxy was not configured, password is provided, region: undefined, authenticator: SNOWFLAKE_JWT, ocsp mode: FAIL_OPEN, os: win32, os version: 10.0.19045"}
+{"level":"INFO","message":"[4:56:45.768 AM]: Connection[id: 4b7e9cd5-cc09-446d-8f06-18f63e9f5318] additional details: passcode in password is provided, passcode is not provided, private key is not provided, application: undefined, client name: snowflake-sdk, client version: 2.0.1, retry timeout: 300, private key path: ../../rsa_key.p8, private key pass is provided, client store temporary credential: false, browser response timeout: 120000"}
+{"level":"INFO","message":"[4:56:45.769 AM]: Connection[id: 4b7e9cd5-cc09-446d-8f06-18f63e9f5318] - connection object created successfully."}
+{"level":"INFO","message":"[4:56:45.770 AM]: Connection[id: 4b7e9cd5-cc09-446d-8f06-18f63e9f5318] - connecting. Associated Snowflake domain: GLOBAL"}
+{"level":"INFO","message":"[4:56:45.783 AM]: Connection[id: 4b7e9cd5-cc09-446d-8f06-18f63e9f5318] - authentication successful using: SNOWFLAKE_JWT"}
+{"level":"INFO","message":"[4:56:45.784 AM]: Trying to initialize Easy Logging"}
+{"level":"INFO","message":"[4:56:45.788 AM]: No client config detected."}
+{"level":"INFO","message":"[4:56:45.788 AM]: No config file path found. Client config will not be used."}
+{"level":"INFO","message":"[4:56:45.789 AM]: Easy Logging is disabled as no config has been found"}
+{"level":"INFO","message":"[4:56:45.793 AM]: Connection[id: 4b7e9cd5-cc09-446d-8f06-18f63e9f5318] - connected successfully after 23.127700001001358 milliseconds"}
+{"level":"INFO","message":"[1:07:28.661 PM]: Creating new connection object"}
+{"level":"INFO","message":"[1:07:28.752 PM]: Creating Connection[id: 78ef4878-9685-48b0-9090-f9f670e44b90] with host: pppipap-mza35986.snowflakecomputing.com, account: pppipap-mza35986, accessUrl: https://pppipap-mza35986.snowflakecomputing.com, user: dankmimi, role: ACCOUNTADMIN, database: HEALTH_APPLICATION, schema: PUBLIC, warehouse: undefined, proxy was not configured, password is provided, region: undefined, authenticator: SNOWFLAKE_JWT, ocsp mode: FAIL_OPEN, os: win32, os version: 10.0.19045"}
+{"level":"INFO","message":"[1:07:28.753 PM]: Connection[id: 78ef4878-9685-48b0-9090-f9f670e44b90] additional details: passcode in password is provided, passcode is not provided, private key is not provided, application: undefined, client name: snowflake-sdk, client version: 2.0.1, retry timeout: 300, private key path: ../../rsa_key.p8, private key pass is provided, client store temporary credential: false, browser response timeout: 120000"}
+{"level":"INFO","message":"[1:07:28.754 PM]: Connection[id: 78ef4878-9685-48b0-9090-f9f670e44b90] - connection object created successfully."}
+{"level":"INFO","message":"[1:07:28.755 PM]: Connection[id: 78ef4878-9685-48b0-9090-f9f670e44b90] - connecting. Associated Snowflake domain: GLOBAL"}
+{"level":"INFO","message":"[1:07:28.768 PM]: Connection[id: 78ef4878-9685-48b0-9090-f9f670e44b90] - authentication successful using: SNOWFLAKE_JWT"}
+{"level":"INFO","message":"[1:07:28.769 PM]: Trying to initialize Easy Logging"}
+{"level":"INFO","message":"[1:07:28.773 PM]: No client config detected."}
+{"level":"INFO","message":"[1:07:28.773 PM]: No config file path found. Client config will not be used."}
+{"level":"INFO","message":"[1:07:28.774 PM]: Easy Logging is disabled as no config has been found"}
+{"level":"INFO","message":"[1:07:28.778 PM]: Connection[id: 78ef4878-9685-48b0-9090-f9f670e44b90] - connected successfully after 23.474399998784065 milliseconds"}
+{"level":"INFO","message":"[1:20:45.820 PM]: Creating new connection object"}
+{"level":"INFO","message":"[1:20:45.914 PM]: Creating Connection[id: 40894c9f-55c5-4510-a505-9a1db485ba54] with host: pppipap-mza35986.snowflakecomputing.com, account: pppipap-mza35986, accessUrl: https://pppipap-mza35986.snowflakecomputing.com, user: dankmimi, role: ACCOUNTADMIN, database: HEALTH_APPLICATION, schema: PUBLIC, warehouse: undefined, proxy was not configured, password is provided, region: undefined, authenticator: SNOWFLAKE_JWT, ocsp mode: FAIL_OPEN, os: win32, os version: 10.0.19045"}
+{"level":"INFO","message":"[1:20:45.915 PM]: Connection[id: 40894c9f-55c5-4510-a505-9a1db485ba54] additional details: passcode in password is provided, passcode is not provided, private key is not provided, application: undefined, client name: snowflake-sdk, client version: 2.0.1, retry timeout: 300, private key path: ../../rsa_key.p8, private key pass is provided, client store temporary credential: false, browser response timeout: 120000"}
+{"level":"INFO","message":"[1:20:45.916 PM]: Connection[id: 40894c9f-55c5-4510-a505-9a1db485ba54] - connection object created successfully."}
+{"level":"INFO","message":"[1:20:45.917 PM]: Connection[id: 40894c9f-55c5-4510-a505-9a1db485ba54] - connecting. Associated Snowflake domain: GLOBAL"}
+{"level":"INFO","message":"[1:20:45.932 PM]: Connection[id: 40894c9f-55c5-4510-a505-9a1db485ba54] - authentication successful using: SNOWFLAKE_JWT"}
+{"level":"INFO","message":"[1:20:45.933 PM]: Trying to initialize Easy Logging"}
+{"level":"INFO","message":"[1:20:45.936 PM]: No client config detected."}
+{"level":"INFO","message":"[1:20:45.937 PM]: No config file path found. Client config will not be used."}
+{"level":"INFO","message":"[1:20:45.937 PM]: Easy Logging is disabled as no config has been found"}
+{"level":"INFO","message":"[1:20:45.942 PM]: Connection[id: 40894c9f-55c5-4510-a505-9a1db485ba54] - connected successfully after 24.685500003397465 milliseconds"}
+{"level":"INFO","message":"[1:26:16.673 PM]: Creating new connection object"}
+{"level":"INFO","message":"[1:26:16.761 PM]: Creating Connection[id: 66de6183-d274-43a0-a0a3-01d65dca2e9a] with host: pppipap-mza35986.snowflakecomputing.com, account: pppipap-mza35986, accessUrl: https://pppipap-mza35986.snowflakecomputing.com, user: dankmimi, role: ACCOUNTADMIN, database: HEALTH_APPLICATION, schema: PUBLIC, warehouse: undefined, proxy was not configured, password is provided, region: undefined, authenticator: SNOWFLAKE_JWT, ocsp mode: FAIL_OPEN, os: win32, os version: 10.0.19045"}
+{"level":"INFO","message":"[1:26:16.762 PM]: Connection[id: 66de6183-d274-43a0-a0a3-01d65dca2e9a] additional details: passcode in password is provided, passcode is not provided, private key is not provided, application: undefined, client name: snowflake-sdk, client version: 2.0.1, retry timeout: 300, private key path: ../../rsa_key.p8, private key pass is provided, client store temporary credential: false, browser response timeout: 120000"}
+{"level":"INFO","message":"[1:26:16.764 PM]: Connection[id: 66de6183-d274-43a0-a0a3-01d65dca2e9a] - connection object created successfully."}
+{"level":"INFO","message":"[1:26:16.764 PM]: Connection[id: 66de6183-d274-43a0-a0a3-01d65dca2e9a] - connecting. Associated Snowflake domain: GLOBAL"}
+{"level":"INFO","message":"[1:26:16.778 PM]: Connection[id: 66de6183-d274-43a0-a0a3-01d65dca2e9a] - authentication successful using: SNOWFLAKE_JWT"}
+{"level":"INFO","message":"[1:26:16.778 PM]: Trying to initialize Easy Logging"}
+{"level":"INFO","message":"[1:26:16.782 PM]: No client config detected."}
+{"level":"INFO","message":"[1:26:16.783 PM]: No config file path found. Client config will not be used."}
+{"level":"INFO","message":"[1:26:16.783 PM]: Easy Logging is disabled as no config has been found"}
+{"level":"INFO","message":"[1:26:16.787 PM]: Connection[id: 66de6183-d274-43a0-a0a3-01d65dca2e9a] - connected successfully after 23.0050999969244 milliseconds"}
+{"level":"INFO","message":"[2:52:21.149 PM]: Creating new connection object"}
+{"level":"INFO","message":"[2:52:21.244 PM]: Creating Connection[id: 3950abaf-5e7b-4449-9f3b-e3521035ec9b] with host: pppipap-mza35986.snowflakecomputing.com, account: pppipap-mza35986, accessUrl: https://pppipap-mza35986.snowflakecomputing.com, user: dankmimi, role: ACCOUNTADMIN, database: HEALTH_APPLICATION, schema: PUBLIC, warehouse: undefined, proxy was not configured, password is provided, region: undefined, authenticator: SNOWFLAKE_JWT, ocsp mode: FAIL_OPEN, os: win32, os version: 10.0.19045"}
+{"level":"INFO","message":"[2:52:21.245 PM]: Connection[id: 3950abaf-5e7b-4449-9f3b-e3521035ec9b] additional details: passcode in password is provided, passcode is not provided, private key is not provided, application: undefined, client name: snowflake-sdk, client version: 2.0.1, retry timeout: 300, private key path: ../../rsa_key.p8, private key pass is provided, client store temporary credential: false, browser response timeout: 120000"}
+{"level":"INFO","message":"[2:52:21.247 PM]: Connection[id: 3950abaf-5e7b-4449-9f3b-e3521035ec9b] - connection object created successfully."}
+{"level":"INFO","message":"[2:52:21.247 PM]: Connection[id: 3950abaf-5e7b-4449-9f3b-e3521035ec9b] - connecting. Associated Snowflake domain: GLOBAL"}
+{"level":"INFO","message":"[2:52:21.264 PM]: Connection[id: 3950abaf-5e7b-4449-9f3b-e3521035ec9b] - authentication successful using: SNOWFLAKE_JWT"}
+{"level":"INFO","message":"[2:52:21.264 PM]: Trying to initialize Easy Logging"}
+{"level":"INFO","message":"[2:52:21.268 PM]: No client config detected."}
+{"level":"INFO","message":"[2:52:21.269 PM]: No config file path found. Client config will not be used."}
+{"level":"INFO","message":"[2:52:21.269 PM]: Easy Logging is disabled as no config has been found"}
+{"level":"INFO","message":"[2:52:21.273 PM]: Connection[id: 3950abaf-5e7b-4449-9f3b-e3521035ec9b] - connected successfully after 26.01119999587536 milliseconds"}
+{"level":"INFO","message":"[2:54:03.199 PM]: Creating new connection object"}
+{"level":"INFO","message":"[2:54:03.291 PM]: Creating Connection[id: 5b158a45-69ae-4000-b2cb-875effda4b7a] with host: pppipap-mza35986.snowflakecomputing.com, account: pppipap-mza35986, accessUrl: https://pppipap-mza35986.snowflakecomputing.com, user: dankmimi, role: ACCOUNTADMIN, database: HEALTH_APPLICATION, schema: PUBLIC, warehouse: undefined, proxy was not configured, password is provided, region: undefined, authenticator: SNOWFLAKE_JWT, ocsp mode: FAIL_OPEN, os: win32, os version: 10.0.19045"}
+{"level":"INFO","message":"[2:54:03.293 PM]: Connection[id: 5b158a45-69ae-4000-b2cb-875effda4b7a] additional details: passcode in password is provided, passcode is not provided, private key is not provided, application: undefined, client name: snowflake-sdk, client version: 2.0.1, retry timeout: 300, private key path: ../../rsa_key.p8, private key pass is provided, client store temporary credential: false, browser response timeout: 120000"}
+{"level":"INFO","message":"[2:54:03.294 PM]: Connection[id: 5b158a45-69ae-4000-b2cb-875effda4b7a] - connection object created successfully."}
+{"level":"INFO","message":"[2:54:03.295 PM]: Connection[id: 5b158a45-69ae-4000-b2cb-875effda4b7a] - connecting. Associated Snowflake domain: GLOBAL"}
+{"level":"INFO","message":"[2:54:03.309 PM]: Connection[id: 5b158a45-69ae-4000-b2cb-875effda4b7a] - authentication successful using: SNOWFLAKE_JWT"}
+{"level":"INFO","message":"[2:54:03.309 PM]: Trying to initialize Easy Logging"}
+{"level":"INFO","message":"[2:54:03.313 PM]: No client config detected."}
+{"level":"INFO","message":"[2:54:03.313 PM]: No config file path found. Client config will not be used."}
+{"level":"INFO","message":"[2:54:03.314 PM]: Easy Logging is disabled as no config has been found"}
+{"level":"INFO","message":"[2:54:03.318 PM]: Connection[id: 5b158a45-69ae-4000-b2cb-875effda4b7a] - connected successfully after 22.86309999972582 milliseconds"}
+{"level":"INFO","message":"[3:46:45.128 PM]: Creating new connection object"}
+{"level":"INFO","message":"[3:46:45.225 PM]: Creating Connection[id: 5daf0915-34fa-40b6-a227-ad167c1fdd36] with host: pppipap-mza35986.snowflakecomputing.com, account: pppipap-mza35986, accessUrl: https://pppipap-mza35986.snowflakecomputing.com, user: dankmimi, role: ACCOUNTADMIN, database: HEALTH_APPLICATION, schema: PUBLIC, warehouse: undefined, proxy was not configured, password is provided, region: undefined, authenticator: SNOWFLAKE_JWT, ocsp mode: FAIL_OPEN, os: win32, os version: 10.0.19045"}
+{"level":"INFO","message":"[3:46:45.226 PM]: Connection[id: 5daf0915-34fa-40b6-a227-ad167c1fdd36] additional details: passcode in password is provided, passcode is not provided, private key is not provided, application: undefined, client name: snowflake-sdk, client version: 2.0.1, retry timeout: 300, private key path: ../../rsa_key.p8, private key pass is provided, client store temporary credential: false, browser response timeout: 120000"}
+{"level":"INFO","message":"[3:46:45.228 PM]: Connection[id: 5daf0915-34fa-40b6-a227-ad167c1fdd36] - connection object created successfully."}
+{"level":"INFO","message":"[3:46:45.228 PM]: Connection[id: 5daf0915-34fa-40b6-a227-ad167c1fdd36] - connecting. Associated Snowflake domain: GLOBAL"}
+{"level":"INFO","message":"[3:46:45.243 PM]: Connection[id: 5daf0915-34fa-40b6-a227-ad167c1fdd36] - authentication successful using: SNOWFLAKE_JWT"}
+{"level":"INFO","message":"[3:46:45.244 PM]: Trying to initialize Easy Logging"}
+{"level":"INFO","message":"[3:46:45.248 PM]: No client config detected."}
+{"level":"INFO","message":"[3:46:45.249 PM]: No config file path found. Client config will not be used."}
+{"level":"INFO","message":"[3:46:45.249 PM]: Easy Logging is disabled as no config has been found"}
+{"level":"INFO","message":"[3:46:45.253 PM]: Connection[id: 5daf0915-34fa-40b6-a227-ad167c1fdd36] - connected successfully after 25.017899990081787 milliseconds"}
+{"level":"INFO","message":"[4:27:05.348 PM]: Creating new connection object"}
+{"level":"INFO","message":"[4:27:05.438 PM]: Creating Connection[id: 1240a88e-0903-4d08-aec7-39df974b43c5] with host: pppipap-mza35986.snowflakecomputing.com, account: pppipap-mza35986, accessUrl: https://pppipap-mza35986.snowflakecomputing.com, user: dankmimi, role: ACCOUNTADMIN, database: HEALTH_APPLICATION, schema: PUBLIC, warehouse: undefined, proxy was not configured, password is provided, region: undefined, authenticator: SNOWFLAKE_JWT, ocsp mode: FAIL_OPEN, os: win32, os version: 10.0.19045"}
+{"level":"INFO","message":"[4:27:05.439 PM]: Connection[id: 1240a88e-0903-4d08-aec7-39df974b43c5] additional details: passcode in password is provided, passcode is not provided, private key is not provided, application: undefined, client name: snowflake-sdk, client version: 2.0.1, retry timeout: 300, private key path: ../../rsa_key.p8, private key pass is provided, client store temporary credential: false, browser response timeout: 120000"}
+{"level":"INFO","message":"[4:27:05.441 PM]: Connection[id: 1240a88e-0903-4d08-aec7-39df974b43c5] - connection object created successfully."}
+{"level":"INFO","message":"[4:27:05.441 PM]: Connection[id: 1240a88e-0903-4d08-aec7-39df974b43c5] - connecting. Associated Snowflake domain: GLOBAL"}
+{"level":"INFO","message":"[4:27:05.456 PM]: Connection[id: 1240a88e-0903-4d08-aec7-39df974b43c5] - authentication successful using: SNOWFLAKE_JWT"}
+{"level":"INFO","message":"[4:27:05.457 PM]: Trying to initialize Easy Logging"}
+{"level":"INFO","message":"[4:27:05.460 PM]: No client config detected."}
+{"level":"INFO","message":"[4:27:05.461 PM]: No config file path found. Client config will not be used."}
+{"level":"INFO","message":"[4:27:05.461 PM]: Easy Logging is disabled as no config has been found"}
+{"level":"INFO","message":"[4:27:05.465 PM]: Connection[id: 1240a88e-0903-4d08-aec7-39df974b43c5] - connected successfully after 23.85989999771118 milliseconds"}
+{"level":"INFO","message":"[5:22:28.042 PM]: Creating new connection object"}
+{"level":"INFO","message":"[5:22:28.132 PM]: Creating Connection[id: 8421a86b-3ec8-4fad-ac2d-1a1ece5e021f] with host: pppipap-mza35986.snowflakecomputing.com, account: pppipap-mza35986, accessUrl: https://pppipap-mza35986.snowflakecomputing.com, user: dankmimi, role: ACCOUNTADMIN, database: HEALTH_APPLICATION, schema: PUBLIC, warehouse: undefined, proxy was not configured, password is provided, region: undefined, authenticator: SNOWFLAKE_JWT, ocsp mode: FAIL_OPEN, os: win32, os version: 10.0.19045"}
+{"level":"INFO","message":"[5:22:28.134 PM]: Connection[id: 8421a86b-3ec8-4fad-ac2d-1a1ece5e021f] additional details: passcode in password is provided, passcode is not provided, private key is not provided, application: undefined, client name: snowflake-sdk, client version: 2.0.1, retry timeout: 300, private key path: ../../rsa_key.p8, private key pass is provided, client store temporary credential: false, browser response timeout: 120000"}
+{"level":"INFO","message":"[5:22:28.135 PM]: Connection[id: 8421a86b-3ec8-4fad-ac2d-1a1ece5e021f] - connection object created successfully."}
+{"level":"INFO","message":"[5:22:28.136 PM]: Connection[id: 8421a86b-3ec8-4fad-ac2d-1a1ece5e021f] - connecting. Associated Snowflake domain: GLOBAL"}
+{"level":"INFO","message":"[5:22:28.153 PM]: Connection[id: 8421a86b-3ec8-4fad-ac2d-1a1ece5e021f] - authentication successful using: SNOWFLAKE_JWT"}
+{"level":"INFO","message":"[5:22:28.154 PM]: Trying to initialize Easy Logging"}
+{"level":"INFO","message":"[5:22:28.159 PM]: No client config detected."}
+{"level":"INFO","message":"[5:22:28.159 PM]: No config file path found. Client config will not be used."}
+{"level":"INFO","message":"[5:22:28.160 PM]: Easy Logging is disabled as no config has been found"}
+{"level":"INFO","message":"[5:22:28.166 PM]: Connection[id: 8421a86b-3ec8-4fad-ac2d-1a1ece5e021f] - connected successfully after 29.98990000784397 milliseconds"}
+{"level":"INFO","message":"[5:57:48.827 PM]: Creating new connection object"}
+{"level":"INFO","message":"[5:57:48.945 PM]: Creating Connection[id: a07319b5-b50f-4f41-b2b0-460ba4a2a3aa] with host: pppipap-mza35986.snowflakecomputing.com, account: pppipap-mza35986, accessUrl: https://pppipap-mza35986.snowflakecomputing.com, user: dankmimi, role: ACCOUNTADMIN, database: HEALTH_APPLICATION, schema: PUBLIC, warehouse: undefined, proxy was not configured, password is provided, region: undefined, authenticator: SNOWFLAKE_JWT, ocsp mode: FAIL_OPEN, os: win32, os version: 10.0.19045"}
+{"level":"INFO","message":"[5:57:48.946 PM]: Connection[id: a07319b5-b50f-4f41-b2b0-460ba4a2a3aa] additional details: passcode in password is provided, passcode is not provided, private key is not provided, application: undefined, client name: snowflake-sdk, client version: 2.0.1, retry timeout: 300, private key path: ../../rsa_key.p8, private key pass is provided, client store temporary credential: false, browser response timeout: 120000"}
+{"level":"INFO","message":"[5:57:48.949 PM]: Connection[id: a07319b5-b50f-4f41-b2b0-460ba4a2a3aa] - connection object created successfully."}
+{"level":"INFO","message":"[5:57:48.949 PM]: Connection[id: a07319b5-b50f-4f41-b2b0-460ba4a2a3aa] - connecting. Associated Snowflake domain: GLOBAL"}
+{"level":"INFO","message":"[5:57:48.969 PM]: Connection[id: a07319b5-b50f-4f41-b2b0-460ba4a2a3aa] - authentication successful using: SNOWFLAKE_JWT"}
+{"level":"INFO","message":"[5:57:48.969 PM]: Trying to initialize Easy Logging"}
+{"level":"INFO","message":"[5:57:48.974 PM]: No client config detected."}
+{"level":"INFO","message":"[5:57:48.975 PM]: No config file path found. Client config will not be used."}
+{"level":"INFO","message":"[5:57:48.975 PM]: Easy Logging is disabled as no config has been found"}
+{"level":"INFO","message":"[5:57:48.980 PM]: Connection[id: a07319b5-b50f-4f41-b2b0-460ba4a2a3aa] - connected successfully after 30.997000008821487 milliseconds"}
+{"level":"INFO","message":"[6:28:14.084 PM]: Creating new connection object"}
+{"level":"INFO","message":"[6:28:14.173 PM]: Creating Connection[id: b2e4c703-a25f-42db-a642-2b760667e392] with host: pppipap-mza35986.snowflakecomputing.com, account: pppipap-mza35986, accessUrl: https://pppipap-mza35986.snowflakecomputing.com, user: dankmimi, role: ACCOUNTADMIN, database: HEALTH_APPLICATION, schema: PUBLIC, warehouse: undefined, proxy was not configured, password is provided, region: undefined, authenticator: SNOWFLAKE_JWT, ocsp mode: FAIL_OPEN, os: win32, os version: 10.0.19045"}
+{"level":"INFO","message":"[6:28:14.174 PM]: Connection[id: b2e4c703-a25f-42db-a642-2b760667e392] additional details: passcode in password is provided, passcode is not provided, private key is not provided, application: undefined, client name: snowflake-sdk, client version: 2.0.1, retry timeout: 300, private key path: ../../rsa_key.p8, private key pass is provided, client store temporary credential: false, browser response timeout: 120000"}
+{"level":"INFO","message":"[6:28:14.175 PM]: Connection[id: b2e4c703-a25f-42db-a642-2b760667e392] - connection object created successfully."}
+{"level":"INFO","message":"[6:28:14.176 PM]: Connection[id: b2e4c703-a25f-42db-a642-2b760667e392] - connecting. Associated Snowflake domain: GLOBAL"}
+{"level":"INFO","message":"[6:28:14.190 PM]: Connection[id: b2e4c703-a25f-42db-a642-2b760667e392] - authentication successful using: SNOWFLAKE_JWT"}
+{"level":"INFO","message":"[6:28:14.191 PM]: Trying to initialize Easy Logging"}
+{"level":"INFO","message":"[6:28:14.195 PM]: No client config detected."}
+{"level":"INFO","message":"[6:28:14.195 PM]: No config file path found. Client config will not be used."}
+{"level":"INFO","message":"[6:28:14.196 PM]: Easy Logging is disabled as no config has been found"}
+{"level":"INFO","message":"[6:28:14.199 PM]: Connection[id: b2e4c703-a25f-42db-a642-2b760667e392] - connected successfully after 23.584100008010864 milliseconds"}
+{"level":"INFO","message":"[6:29:19.431 PM]: Creating new connection object"}
+{"level":"INFO","message":"[6:29:19.525 PM]: Creating Connection[id: 09073ac3-0920-46b0-b487-b1b9772d64c3] with host: pppipap-mza35986.snowflakecomputing.com, account: pppipap-mza35986, accessUrl: https://pppipap-mza35986.snowflakecomputing.com, user: dankmimi, role: ACCOUNTADMIN, database: HEALTH_APPLICATION, schema: PUBLIC, warehouse: undefined, proxy was not configured, password is provided, region: undefined, authenticator: SNOWFLAKE_JWT, ocsp mode: FAIL_OPEN, os: win32, os version: 10.0.19045"}
+{"level":"INFO","message":"[6:29:19.527 PM]: Connection[id: 09073ac3-0920-46b0-b487-b1b9772d64c3] additional details: passcode in password is provided, passcode is not provided, private key is not provided, application: undefined, client name: snowflake-sdk, client version: 2.0.1, retry timeout: 300, private key path: ../../rsa_key.p8, private key pass is provided, client store temporary credential: false, browser response timeout: 120000"}
+{"level":"INFO","message":"[6:29:19.528 PM]: Connection[id: 09073ac3-0920-46b0-b487-b1b9772d64c3] - connection object created successfully."}
+{"level":"INFO","message":"[6:29:19.529 PM]: Connection[id: 09073ac3-0920-46b0-b487-b1b9772d64c3] - connecting. Associated Snowflake domain: GLOBAL"}
+{"level":"INFO","message":"[6:29:19.543 PM]: Connection[id: 09073ac3-0920-46b0-b487-b1b9772d64c3] - authentication successful using: SNOWFLAKE_JWT"}
+{"level":"INFO","message":"[6:29:19.544 PM]: Trying to initialize Easy Logging"}
+{"level":"INFO","message":"[6:29:19.548 PM]: No client config detected."}
+{"level":"INFO","message":"[6:29:19.548 PM]: No config file path found. Client config will not be used."}
+{"level":"INFO","message":"[6:29:19.549 PM]: Easy Logging is disabled as no config has been found"}
+{"level":"INFO","message":"[6:29:19.553 PM]: Connection[id: 09073ac3-0920-46b0-b487-b1b9772d64c3] - connected successfully after 24.13749998807907 milliseconds"}
+{"level":"INFO","message":"[6:35:02.422 PM]: Creating new connection object"}
+{"level":"INFO","message":"[6:35:02.515 PM]: Creating Connection[id: b8249cac-34fe-47c5-9b8a-3c13d1fcfb04] with host: pppipap-mza35986.snowflakecomputing.com, account: pppipap-mza35986, accessUrl: https://pppipap-mza35986.snowflakecomputing.com, user: dankmimi, role: ACCOUNTADMIN, database: HEALTH_APPLICATION, schema: PUBLIC, warehouse: undefined, proxy was not configured, password is provided, region: undefined, authenticator: SNOWFLAKE_JWT, ocsp mode: FAIL_OPEN, os: win32, os version: 10.0.19045"}
+{"level":"INFO","message":"[6:35:02.517 PM]: Connection[id: b8249cac-34fe-47c5-9b8a-3c13d1fcfb04] additional details: passcode in password is provided, passcode is not provided, private key is not provided, application: undefined, client name: snowflake-sdk, client version: 2.0.1, retry timeout: 300, private key path: ../../rsa_key.p8, private key pass is provided, client store temporary credential: false, browser response timeout: 120000"}
+{"level":"INFO","message":"[6:35:02.518 PM]: Connection[id: b8249cac-34fe-47c5-9b8a-3c13d1fcfb04] - connection object created successfully."}
+{"level":"INFO","message":"[6:35:02.519 PM]: Connection[id: b8249cac-34fe-47c5-9b8a-3c13d1fcfb04] - connecting. Associated Snowflake domain: GLOBAL"}
+{"level":"INFO","message":"[6:35:02.534 PM]: Connection[id: b8249cac-34fe-47c5-9b8a-3c13d1fcfb04] - authentication successful using: SNOWFLAKE_JWT"}
+{"level":"INFO","message":"[6:35:02.534 PM]: Trying to initialize Easy Logging"}
+{"level":"INFO","message":"[6:35:02.560 PM]: No client config detected."}
+{"level":"INFO","message":"[6:35:02.561 PM]: No config file path found. Client config will not be used."}
+{"level":"INFO","message":"[6:35:02.562 PM]: Easy Logging is disabled as no config has been found"}
+{"level":"INFO","message":"[6:35:02.566 PM]: Connection[id: b8249cac-34fe-47c5-9b8a-3c13d1fcfb04] - connected successfully after 46.88439999520779 milliseconds"}
+{"level":"INFO","message":"[6:35:52.391 PM]: Creating new connection object"}
+{"level":"INFO","message":"[6:35:52.478 PM]: Creating Connection[id: 6c3a2734-3f63-4d61-9c24-2f148fe29152] with host: pppipap-mza35986.snowflakecomputing.com, account: pppipap-mza35986, accessUrl: https://pppipap-mza35986.snowflakecomputing.com, user: dankmimi, role: ACCOUNTADMIN, database: HEALTH_APPLICATION, schema: PUBLIC, warehouse: undefined, proxy was not configured, password is provided, region: undefined, authenticator: SNOWFLAKE_JWT, ocsp mode: FAIL_OPEN, os: win32, os version: 10.0.19045"}
+{"level":"INFO","message":"[6:35:52.479 PM]: Connection[id: 6c3a2734-3f63-4d61-9c24-2f148fe29152] additional details: passcode in password is provided, passcode is not provided, private key is not provided, application: undefined, client name: snowflake-sdk, client version: 2.0.1, retry timeout: 300, private key path: ../../rsa_key.p8, private key pass is provided, client store temporary credential: false, browser response timeout: 120000"}
+{"level":"INFO","message":"[6:35:52.480 PM]: Connection[id: 6c3a2734-3f63-4d61-9c24-2f148fe29152] - connection object created successfully."}
+{"level":"INFO","message":"[6:35:52.481 PM]: Connection[id: 6c3a2734-3f63-4d61-9c24-2f148fe29152] - connecting. Associated Snowflake domain: GLOBAL"}
+{"level":"INFO","message":"[6:35:52.495 PM]: Connection[id: 6c3a2734-3f63-4d61-9c24-2f148fe29152] - authentication successful using: SNOWFLAKE_JWT"}
+{"level":"INFO","message":"[6:35:52.496 PM]: Trying to initialize Easy Logging"}
+{"level":"INFO","message":"[6:35:52.500 PM]: No client config detected."}
+{"level":"INFO","message":"[6:35:52.500 PM]: No config file path found. Client config will not be used."}
+{"level":"INFO","message":"[6:35:52.500 PM]: Easy Logging is disabled as no config has been found"}
+{"level":"INFO","message":"[6:35:52.504 PM]: Connection[id: 6c3a2734-3f63-4d61-9c24-2f148fe29152] - connected successfully after 23.206200003623962 milliseconds"}
+{"level":"INFO","message":"[7:38:42.001 PM]: Creating new connection object"}
+{"level":"INFO","message":"[7:38:42.102 PM]: Creating Connection[id: 87421213-bead-412c-9ea7-02309fda4417] with host: pppipap-mza35986.snowflakecomputing.com, account: pppipap-mza35986, accessUrl: https://pppipap-mza35986.snowflakecomputing.com, user: dankmimi, role: ACCOUNTADMIN, database: HEALTH_APPLICATION, schema: PUBLIC, warehouse: undefined, proxy was not configured, password is provided, region: undefined, authenticator: SNOWFLAKE_JWT, ocsp mode: FAIL_OPEN, os: win32, os version: 10.0.19045"}
+{"level":"INFO","message":"[7:38:42.103 PM]: Connection[id: 87421213-bead-412c-9ea7-02309fda4417] additional details: passcode in password is provided, passcode is not provided, private key is not provided, application: undefined, client name: snowflake-sdk, client version: 2.0.1, retry timeout: 300, private key path: ../../rsa_key.p8, private key pass is provided, client store temporary credential: false, browser response timeout: 120000"}
+{"level":"INFO","message":"[7:38:42.105 PM]: Connection[id: 87421213-bead-412c-9ea7-02309fda4417] - connection object created successfully."}
+{"level":"INFO","message":"[7:38:42.105 PM]: Connection[id: 87421213-bead-412c-9ea7-02309fda4417] - connecting. Associated Snowflake domain: GLOBAL"}
+{"level":"INFO","message":"[7:38:42.121 PM]: Connection[id: 87421213-bead-412c-9ea7-02309fda4417] - authentication successful using: SNOWFLAKE_JWT"}
+{"level":"INFO","message":"[7:38:42.122 PM]: Trying to initialize Easy Logging"}
+{"level":"INFO","message":"[7:38:42.126 PM]: No client config detected."}
+{"level":"INFO","message":"[7:38:42.126 PM]: No config file path found. Client config will not be used."}
+{"level":"INFO","message":"[7:38:42.127 PM]: Easy Logging is disabled as no config has been found"}
+{"level":"INFO","message":"[7:38:42.131 PM]: Connection[id: 87421213-bead-412c-9ea7-02309fda4417] - connected successfully after 26.057099997997284 milliseconds"}
+{"level":"INFO","message":"[7:39:18.913 PM]: Creating new connection object"}
+{"level":"INFO","message":"[7:39:19.003 PM]: Creating Connection[id: 34a21ef5-d4ef-4125-83b0-3df4d91b6a91] with host: pppipap-mza35986.snowflakecomputing.com, account: pppipap-mza35986, accessUrl: https://pppipap-mza35986.snowflakecomputing.com, user: dankmimi, role: ACCOUNTADMIN, database: HEALTH_APPLICATION, schema: PUBLIC, warehouse: undefined, proxy was not configured, password is provided, region: undefined, authenticator: SNOWFLAKE_JWT, ocsp mode: FAIL_OPEN, os: win32, os version: 10.0.19045"}
+{"level":"INFO","message":"[7:39:19.005 PM]: Connection[id: 34a21ef5-d4ef-4125-83b0-3df4d91b6a91] additional details: passcode in password is provided, passcode is not provided, private key is not provided, application: undefined, client name: snowflake-sdk, client version: 2.0.1, retry timeout: 300, private key path: ../../rsa_key.p8, private key pass is provided, client store temporary credential: false, browser response timeout: 120000"}
+{"level":"INFO","message":"[7:39:19.006 PM]: Connection[id: 34a21ef5-d4ef-4125-83b0-3df4d91b6a91] - connection object created successfully."}
+{"level":"INFO","message":"[7:39:19.006 PM]: Connection[id: 34a21ef5-d4ef-4125-83b0-3df4d91b6a91] - connecting. Associated Snowflake domain: GLOBAL"}
+{"level":"INFO","message":"[7:39:19.021 PM]: Connection[id: 34a21ef5-d4ef-4125-83b0-3df4d91b6a91] - authentication successful using: SNOWFLAKE_JWT"}
+{"level":"INFO","message":"[7:39:19.021 PM]: Trying to initialize Easy Logging"}
+{"level":"INFO","message":"[7:39:19.026 PM]: No client config detected."}
+{"level":"INFO","message":"[7:39:19.026 PM]: No config file path found. Client config will not be used."}
+{"level":"INFO","message":"[7:39:19.027 PM]: Easy Logging is disabled as no config has been found"}
+{"level":"INFO","message":"[7:39:19.033 PM]: Connection[id: 34a21ef5-d4ef-4125-83b0-3df4d91b6a91] - connected successfully after 26.39070001244545 milliseconds"}
+{"level":"INFO","message":"[7:41:00.781 PM]: Creating new connection object"}
+{"level":"INFO","message":"[7:41:00.872 PM]: Creating Connection[id: 22cea4d3-f3c8-4110-b5d4-896af96e1ae4] with host: pppipap-mza35986.snowflakecomputing.com, account: pppipap-mza35986, accessUrl: https://pppipap-mza35986.snowflakecomputing.com, user: dankmimi, role: ACCOUNTADMIN, database: HEALTH_APPLICATION, schema: PUBLIC, warehouse: undefined, proxy was not configured, password is provided, region: undefined, authenticator: SNOWFLAKE_JWT, ocsp mode: FAIL_OPEN, os: win32, os version: 10.0.19045"}
+{"level":"INFO","message":"[7:41:00.873 PM]: Connection[id: 22cea4d3-f3c8-4110-b5d4-896af96e1ae4] additional details: passcode in password is provided, passcode is not provided, private key is not provided, application: undefined, client name: snowflake-sdk, client version: 2.0.1, retry timeout: 300, private key path: ../../rsa_key.p8, private key pass is provided, client store temporary credential: false, browser response timeout: 120000"}
+{"level":"INFO","message":"[7:41:00.874 PM]: Connection[id: 22cea4d3-f3c8-4110-b5d4-896af96e1ae4] - connection object created successfully."}
+{"level":"INFO","message":"[7:41:00.875 PM]: Connection[id: 22cea4d3-f3c8-4110-b5d4-896af96e1ae4] - connecting. Associated Snowflake domain: GLOBAL"}
+{"level":"INFO","message":"[7:41:00.893 PM]: Connection[id: 22cea4d3-f3c8-4110-b5d4-896af96e1ae4] - authentication successful using: SNOWFLAKE_JWT"}
+{"level":"INFO","message":"[7:41:00.893 PM]: Trying to initialize Easy Logging"}
+{"level":"INFO","message":"[7:41:00.897 PM]: No client config detected."}
+{"level":"INFO","message":"[7:41:00.898 PM]: No config file path found. Client config will not be used."}
+{"level":"INFO","message":"[7:41:00.898 PM]: Easy Logging is disabled as no config has been found"}
+{"level":"INFO","message":"[7:41:00.902 PM]: Connection[id: 22cea4d3-f3c8-4110-b5d4-896af96e1ae4] - connected successfully after 27.086399987339973 milliseconds"}
+{"level":"INFO","message":"[9:30:38.382 PM]: Creating new connection object"}
+{"level":"INFO","message":"[9:30:38.483 PM]: Creating Connection[id: 60b62d27-dc39-47e0-991d-6e9b95241b93] with host: pppipap-mza35986.snowflakecomputing.com, account: pppipap-mza35986, accessUrl: https://pppipap-mza35986.snowflakecomputing.com, user: dankmimi, role: ACCOUNTADMIN, database: HEALTH_APPLICATION, schema: PUBLIC, warehouse: undefined, proxy was not configured, password is provided, region: undefined, authenticator: SNOWFLAKE_JWT, ocsp mode: FAIL_OPEN, os: win32, os version: 10.0.19045"}
+{"level":"INFO","message":"[9:30:38.485 PM]: Connection[id: 60b62d27-dc39-47e0-991d-6e9b95241b93] additional details: passcode in password is provided, passcode is not provided, private key is not provided, application: undefined, client name: snowflake-sdk, client version: 2.0.1, retry timeout: 300, private key path: ../../rsa_key.p8, private key pass is provided, client store temporary credential: false, browser response timeout: 120000"}
+{"level":"INFO","message":"[9:30:38.486 PM]: Connection[id: 60b62d27-dc39-47e0-991d-6e9b95241b93] - connection object created successfully."}
+{"level":"INFO","message":"[9:30:38.487 PM]: Connection[id: 60b62d27-dc39-47e0-991d-6e9b95241b93] - connecting. Associated Snowflake domain: GLOBAL"}
+{"level":"INFO","message":"[9:30:38.506 PM]: Connection[id: 60b62d27-dc39-47e0-991d-6e9b95241b93] - authentication successful using: SNOWFLAKE_JWT"}
+{"level":"INFO","message":"[9:30:38.507 PM]: Trying to initialize Easy Logging"}
+{"level":"INFO","message":"[9:30:38.512 PM]: No client config detected."}
+{"level":"INFO","message":"[9:30:38.512 PM]: No config file path found. Client config will not be used."}
+{"level":"INFO","message":"[9:30:38.513 PM]: Easy Logging is disabled as no config has been found"}
+{"level":"INFO","message":"[9:30:38.518 PM]: Connection[id: 60b62d27-dc39-47e0-991d-6e9b95241b93] - connected successfully after 30.79509998857975 milliseconds"}
+{"level":"INFO","message":"[9:40:49.839 PM]: Creating new connection object"}
+{"level":"INFO","message":"[9:40:49.928 PM]: Creating Connection[id: fbbd7e6f-430f-485b-a1de-cf5e20d00e0f] with host: pppipap-mza35986.snowflakecomputing.com, account: pppipap-mza35986, accessUrl: https://pppipap-mza35986.snowflakecomputing.com, user: dankmimi, role: ACCOUNTADMIN, database: HEALTH_APPLICATION, schema: PUBLIC, warehouse: undefined, proxy was not configured, password is provided, region: undefined, authenticator: SNOWFLAKE_JWT, ocsp mode: FAIL_OPEN, os: win32, os version: 10.0.19045"}
+{"level":"INFO","message":"[9:40:49.929 PM]: Connection[id: fbbd7e6f-430f-485b-a1de-cf5e20d00e0f] additional details: passcode in password is provided, passcode is not provided, private key is not provided, application: undefined, client name: snowflake-sdk, client version: 2.0.1, retry timeout: 300, private key path: ../../rsa_key.p8, private key pass is provided, client store temporary credential: false, browser response timeout: 120000"}
+{"level":"INFO","message":"[9:40:49.931 PM]: Connection[id: fbbd7e6f-430f-485b-a1de-cf5e20d00e0f] - connection object created successfully."}
+{"level":"INFO","message":"[9:40:49.931 PM]: Connection[id: fbbd7e6f-430f-485b-a1de-cf5e20d00e0f] - connecting. Associated Snowflake domain: GLOBAL"}
+{"level":"INFO","message":"[9:40:49.946 PM]: Connection[id: fbbd7e6f-430f-485b-a1de-cf5e20d00e0f] - authentication successful using: SNOWFLAKE_JWT"}
+{"level":"INFO","message":"[9:40:49.946 PM]: Trying to initialize Easy Logging"}
+{"level":"INFO","message":"[9:40:49.950 PM]: No client config detected."}
+{"level":"INFO","message":"[9:40:49.950 PM]: No config file path found. Client config will not be used."}
+{"level":"INFO","message":"[9:40:49.950 PM]: Easy Logging is disabled as no config has been found"}
+{"level":"INFO","message":"[9:40:49.954 PM]: Connection[id: fbbd7e6f-430f-485b-a1de-cf5e20d00e0f] - connected successfully after 22.86540000140667 milliseconds"}
+{"level":"INFO","message":"[9:51:08.290 PM]: Creating new connection object"}
+{"level":"INFO","message":"[9:51:08.384 PM]: Creating Connection[id: 8ed177d7-f2cc-4b48-b290-ffbaa1b16f11] with host: pppipap-mza35986.snowflakecomputing.com, account: pppipap-mza35986, accessUrl: https://pppipap-mza35986.snowflakecomputing.com, user: dankmimi, role: ACCOUNTADMIN, database: HEALTH_APPLICATION, schema: PUBLIC, warehouse: undefined, proxy was not configured, password is provided, region: undefined, authenticator: SNOWFLAKE_JWT, ocsp mode: FAIL_OPEN, os: win32, os version: 10.0.19045"}
+{"level":"INFO","message":"[9:51:08.385 PM]: Connection[id: 8ed177d7-f2cc-4b48-b290-ffbaa1b16f11] additional details: passcode in password is provided, passcode is not provided, private key is not provided, application: undefined, client name: snowflake-sdk, client version: 2.0.1, retry timeout: 300, private key path: ../../rsa_key.p8, private key pass is provided, client store temporary credential: false, browser response timeout: 120000"}
+{"level":"INFO","message":"[9:51:08.386 PM]: Connection[id: 8ed177d7-f2cc-4b48-b290-ffbaa1b16f11] - connection object created successfully."}
+{"level":"INFO","message":"[9:51:08.387 PM]: Connection[id: 8ed177d7-f2cc-4b48-b290-ffbaa1b16f11] - connecting. Associated Snowflake domain: GLOBAL"}
+{"level":"INFO","message":"[9:51:08.402 PM]: Connection[id: 8ed177d7-f2cc-4b48-b290-ffbaa1b16f11] - authentication successful using: SNOWFLAKE_JWT"}
+{"level":"INFO","message":"[9:51:08.402 PM]: Trying to initialize Easy Logging"}
+{"level":"INFO","message":"[9:51:08.406 PM]: No client config detected."}
+{"level":"INFO","message":"[9:51:08.406 PM]: No config file path found. Client config will not be used."}
+{"level":"INFO","message":"[9:51:08.407 PM]: Easy Logging is disabled as no config has been found"}
+{"level":"INFO","message":"[9:51:08.410 PM]: Connection[id: 8ed177d7-f2cc-4b48-b290-ffbaa1b16f11] - connected successfully after 23.261700004339218 milliseconds"}
+{"level":"INFO","message":"[11:42:40.417 PM]: Creating new connection object"}
+{"level":"INFO","message":"[11:42:40.514 PM]: Creating Connection[id: 4e82eaee-2b19-4341-aa90-b2dc40108e86] with host: pppipap-mza35986.snowflakecomputing.com, account: pppipap-mza35986, accessUrl: https://pppipap-mza35986.snowflakecomputing.com, user: dankmimi, role: ACCOUNTADMIN, database: HEALTH_APPLICATION, schema: PUBLIC, warehouse: undefined, proxy was not configured, password is provided, region: undefined, authenticator: SNOWFLAKE_JWT, ocsp mode: FAIL_OPEN, os: win32, os version: 10.0.19045"}
+{"level":"INFO","message":"[11:42:40.516 PM]: Connection[id: 4e82eaee-2b19-4341-aa90-b2dc40108e86] additional details: passcode in password is provided, passcode is not provided, private key is not provided, application: undefined, client name: snowflake-sdk, client version: 2.0.1, retry timeout: 300, private key path: ../../rsa_key.p8, private key pass is provided, client store temporary credential: false, browser response timeout: 120000"}
+{"level":"INFO","message":"[11:42:40.517 PM]: Connection[id: 4e82eaee-2b19-4341-aa90-b2dc40108e86] - connection object created successfully."}
+{"level":"INFO","message":"[11:42:40.518 PM]: Connection[id: 4e82eaee-2b19-4341-aa90-b2dc40108e86] - connecting. Associated Snowflake domain: GLOBAL"}
+{"level":"INFO","message":"[11:42:40.535 PM]: Connection[id: 4e82eaee-2b19-4341-aa90-b2dc40108e86] - authentication successful using: SNOWFLAKE_JWT"}
+{"level":"INFO","message":"[11:42:40.536 PM]: Trying to initialize Easy Logging"}
+{"level":"INFO","message":"[11:42:40.540 PM]: No client config detected."}
+{"level":"INFO","message":"[11:42:40.541 PM]: No config file path found. Client config will not be used."}
+{"level":"INFO","message":"[11:42:40.542 PM]: Easy Logging is disabled as no config has been found"}
+{"level":"INFO","message":"[11:42:40.546 PM]: Connection[id: 4e82eaee-2b19-4341-aa90-b2dc40108e86] - connected successfully after 27.86429999768734 milliseconds"}
+{"level":"INFO","message":"[12:35:03.166 AM]: Creating new connection object"}
+{"level":"INFO","message":"[12:35:03.255 AM]: Creating Connection[id: e4cb4faa-2a84-40c6-938e-b263b4867c3d] with host: pppipap-mza35986.snowflakecomputing.com, account: pppipap-mza35986, accessUrl: https://pppipap-mza35986.snowflakecomputing.com, user: dankmimi, role: ACCOUNTADMIN, database: HEALTH_APPLICATION, schema: PUBLIC, warehouse: undefined, proxy was not configured, password is not provided, region: undefined, authenticator: SNOWFLAKE_JWT, ocsp mode: FAIL_OPEN, os: win32, os version: 10.0.19045"}
+{"level":"INFO","message":"[12:35:03.256 AM]: Connection[id: e4cb4faa-2a84-40c6-938e-b263b4867c3d] additional details: passcode in password is provided, passcode is not provided, private key is not provided, application: undefined, client name: snowflake-sdk, client version: 2.0.1, retry timeout: 300, private key path: ../../rsa_key.p8, private key pass is provided, client store temporary credential: false, browser response timeout: 120000"}
+{"level":"INFO","message":"[12:35:03.257 AM]: Connection[id: e4cb4faa-2a84-40c6-938e-b263b4867c3d] - connection object created successfully."}
+{"level":"INFO","message":"[12:35:03.258 AM]: Connection[id: e4cb4faa-2a84-40c6-938e-b263b4867c3d] - connecting. Associated Snowflake domain: GLOBAL"}
+{"level":"INFO","message":"[12:35:03.273 AM]: Connection[id: e4cb4faa-2a84-40c6-938e-b263b4867c3d] - authentication successful using: SNOWFLAKE_JWT"}
+{"level":"INFO","message":"[12:35:03.274 AM]: Trying to initialize Easy Logging"}
+{"level":"INFO","message":"[12:35:03.277 AM]: No client config detected."}
+{"level":"INFO","message":"[12:35:03.278 AM]: No config file path found. Client config will not be used."}
+{"level":"INFO","message":"[12:35:03.278 AM]: Easy Logging is disabled as no config has been found"}
+{"level":"INFO","message":"[12:35:03.283 AM]: Connection[id: e4cb4faa-2a84-40c6-938e-b263b4867c3d] - connected successfully after 24.509200006723404 milliseconds"}
+{"level":"INFO","message":"[7:08:19.783 PM]: Creating new connection object"}
+{"level":"INFO","message":"[7:08:19.912 PM]: Creating Connection[id: ef16e6d9-3ed0-4bf6-9007-657638c325ab] with host: pppipap-mza35986.snowflakecomputing.com, account: pppipap-mza35986, accessUrl: https://pppipap-mza35986.snowflakecomputing.com, user: dankmimi, role: ACCOUNTADMIN, database: HEALTH_APPLICATION, schema: PUBLIC, warehouse: undefined, proxy was not configured, password is not provided, region: undefined, authenticator: SNOWFLAKE_JWT, ocsp mode: FAIL_OPEN, os: win32, os version: 10.0.19045"}
+{"level":"INFO","message":"[7:08:19.913 PM]: Connection[id: ef16e6d9-3ed0-4bf6-9007-657638c325ab] additional details: passcode in password is provided, passcode is not provided, private key is not provided, application: undefined, client name: snowflake-sdk, client version: 2.0.1, retry timeout: 300, private key path: ../../rsa_key.p8, private key pass is provided, client store temporary credential: false, browser response timeout: 120000"}
+{"level":"INFO","message":"[7:08:19.914 PM]: Connection[id: ef16e6d9-3ed0-4bf6-9007-657638c325ab] - connection object created successfully."}
+{"level":"INFO","message":"[7:08:19.915 PM]: Connection[id: ef16e6d9-3ed0-4bf6-9007-657638c325ab] - connecting. Associated Snowflake domain: GLOBAL"}
+{"level":"INFO","message":"[7:08:19.933 PM]: Connection[id: ef16e6d9-3ed0-4bf6-9007-657638c325ab] - authentication successful using: SNOWFLAKE_JWT"}
+{"level":"INFO","message":"[7:08:19.934 PM]: Trying to initialize Easy Logging"}
+{"level":"INFO","message":"[7:08:19.937 PM]: No client config detected."}
+{"level":"INFO","message":"[7:08:19.938 PM]: No config file path found. Client config will not be used."}
+{"level":"INFO","message":"[7:08:19.938 PM]: Easy Logging is disabled as no config has been found"}
+{"level":"INFO","message":"[7:08:19.942 PM]: Connection[id: ef16e6d9-3ed0-4bf6-9007-657638c325ab] - connected successfully after 27.005400002002716 milliseconds"}
+{"level":"INFO","message":"[7:08:25.619 PM]: Creating new connection object"}
+{"level":"INFO","message":"[7:08:25.718 PM]: Creating Connection[id: 41b79c8c-e7c9-4b6d-b9f1-cec9efbbc195] with host: pppipap-mza35986.snowflakecomputing.com, account: pppipap-mza35986, accessUrl: https://pppipap-mza35986.snowflakecomputing.com, user: dankmimi, role: ACCOUNTADMIN, database: HEALTH_APPLICATION, schema: PUBLIC, warehouse: undefined, proxy was not configured, password is not provided, region: undefined, authenticator: SNOWFLAKE_JWT, ocsp mode: FAIL_OPEN, os: win32, os version: 10.0.19045"}
+{"level":"INFO","message":"[7:08:25.719 PM]: Connection[id: 41b79c8c-e7c9-4b6d-b9f1-cec9efbbc195] additional details: passcode in password is provided, passcode is not provided, private key is not provided, application: undefined, client name: snowflake-sdk, client version: 2.0.1, retry timeout: 300, private key path: ../../rsa_key.p8, private key pass is provided, client store temporary credential: false, browser response timeout: 120000"}
+{"level":"INFO","message":"[7:08:25.721 PM]: Connection[id: 41b79c8c-e7c9-4b6d-b9f1-cec9efbbc195] - connection object created successfully."}
+{"level":"INFO","message":"[7:08:25.721 PM]: Connection[id: 41b79c8c-e7c9-4b6d-b9f1-cec9efbbc195] - connecting. Associated Snowflake domain: GLOBAL"}
+{"level":"INFO","message":"[7:08:25.736 PM]: Connection[id: 41b79c8c-e7c9-4b6d-b9f1-cec9efbbc195] - authentication successful using: SNOWFLAKE_JWT"}
+{"level":"INFO","message":"[7:08:25.737 PM]: Trying to initialize Easy Logging"}
+{"level":"INFO","message":"[7:08:25.741 PM]: No client config detected."}
+{"level":"INFO","message":"[7:08:25.741 PM]: No config file path found. Client config will not be used."}
+{"level":"INFO","message":"[7:08:25.742 PM]: Easy Logging is disabled as no config has been found"}
+{"level":"INFO","message":"[7:08:25.746 PM]: Connection[id: 41b79c8c-e7c9-4b6d-b9f1-cec9efbbc195] - connected successfully after 24.52820000052452 milliseconds"}
+{"level":"INFO","message":"[8:13:04.597 PM]: Creating new connection object"}
+{"level":"INFO","message":"[8:13:04.724 PM]: Creating Connection[id: 499256ba-4cb6-41b5-93e9-6bc6adebeab6] with host: pppipap-mza35986.snowflakecomputing.com, account: pppipap-mza35986, accessUrl: https://pppipap-mza35986.snowflakecomputing.com, user: dankmimi, role: ACCOUNTADMIN, database: HEALTH_APPLICATION, schema: PUBLIC, warehouse: undefined, proxy was not configured, password is not provided, region: undefined, authenticator: SNOWFLAKE_JWT, ocsp mode: FAIL_OPEN, os: win32, os version: 10.0.19045"}
+{"level":"INFO","message":"[8:13:04.725 PM]: Connection[id: 499256ba-4cb6-41b5-93e9-6bc6adebeab6] additional details: passcode in password is provided, passcode is not provided, private key is not provided, application: undefined, client name: snowflake-sdk, client version: 2.0.1, retry timeout: 300, private key path: ../../rsa_key.p8, private key pass is provided, client store temporary credential: false, browser response timeout: 120000"}
+{"level":"INFO","message":"[8:13:04.727 PM]: Connection[id: 499256ba-4cb6-41b5-93e9-6bc6adebeab6] - connection object created successfully."}
+{"level":"INFO","message":"[8:13:04.727 PM]: Connection[id: 499256ba-4cb6-41b5-93e9-6bc6adebeab6] - connecting. Associated Snowflake domain: GLOBAL"}
+{"level":"INFO","message":"[8:13:04.745 PM]: Connection[id: 499256ba-4cb6-41b5-93e9-6bc6adebeab6] - authentication successful using: SNOWFLAKE_JWT"}
+{"level":"INFO","message":"[8:13:04.746 PM]: Trying to initialize Easy Logging"}
+{"level":"INFO","message":"[8:13:04.751 PM]: No client config detected."}
+{"level":"INFO","message":"[8:13:04.751 PM]: No config file path found. Client config will not be used."}
+{"level":"INFO","message":"[8:13:04.752 PM]: Easy Logging is disabled as no config has been found"}
+{"level":"INFO","message":"[8:13:04.756 PM]: Connection[id: 499256ba-4cb6-41b5-93e9-6bc6adebeab6] - connected successfully after 28.776100009679794 milliseconds"}
+{"level":"INFO","message":"[8:13:34.375 PM]: Creating new connection object"}
+{"level":"INFO","message":"[8:13:34.467 PM]: Creating Connection[id: a4040ec7-f744-4761-858e-742ac0726750] with host: pppipap-mza35986.snowflakecomputing.com, account: pppipap-mza35986, accessUrl: https://pppipap-mza35986.snowflakecomputing.com, user: dankmimi, role: ACCOUNTADMIN, database: HEALTH_APPLICATION, schema: PUBLIC, warehouse: undefined, proxy was not configured, password is not provided, region: undefined, authenticator: SNOWFLAKE_JWT, ocsp mode: FAIL_OPEN, os: win32, os version: 10.0.19045"}
+{"level":"INFO","message":"[8:13:34.469 PM]: Connection[id: a4040ec7-f744-4761-858e-742ac0726750] additional details: passcode in password is provided, passcode is not provided, private key is not provided, application: undefined, client name: snowflake-sdk, client version: 2.0.1, retry timeout: 300, private key path: ../../rsa_key.p8, private key pass is provided, client store temporary credential: false, browser response timeout: 120000"}
+{"level":"INFO","message":"[8:13:34.470 PM]: Connection[id: a4040ec7-f744-4761-858e-742ac0726750] - connection object created successfully."}
+{"level":"INFO","message":"[8:13:34.471 PM]: Connection[id: a4040ec7-f744-4761-858e-742ac0726750] - connecting. Associated Snowflake domain: GLOBAL"}
+{"level":"INFO","message":"[8:13:34.485 PM]: Connection[id: a4040ec7-f744-4761-858e-742ac0726750] - authentication successful using: SNOWFLAKE_JWT"}
+{"level":"INFO","message":"[8:13:34.486 PM]: Trying to initialize Easy Logging"}
+{"level":"INFO","message":"[8:13:34.490 PM]: No client config detected."}
+{"level":"INFO","message":"[8:13:34.490 PM]: No config file path found. Client config will not be used."}
+{"level":"INFO","message":"[8:13:34.491 PM]: Easy Logging is disabled as no config has been found"}
+{"level":"INFO","message":"[8:13:34.496 PM]: Connection[id: a4040ec7-f744-4761-858e-742ac0726750] - connected successfully after 24.967799991369247 milliseconds"}
+{"level":"INFO","message":"[8:19:26.937 PM]: Creating new connection object"}
+{"level":"INFO","message":"[8:19:27.057 PM]: Creating Connection[id: a5341937-657b-4a10-83af-a94615571d48] with host: pppipap-mza35986.snowflakecomputing.com, account: pppipap-mza35986, accessUrl: https://pppipap-mza35986.snowflakecomputing.com, user: dankmimi, role: ACCOUNTADMIN, database: HEALTH_APPLICATION, schema: PUBLIC, warehouse: undefined, proxy was not configured, password is not provided, region: undefined, authenticator: SNOWFLAKE_JWT, ocsp mode: FAIL_OPEN, os: win32, os version: 10.0.19045"}
+{"level":"INFO","message":"[8:19:27.058 PM]: Connection[id: a5341937-657b-4a10-83af-a94615571d48] additional details: passcode in password is provided, passcode is not provided, private key is not provided, application: undefined, client name: snowflake-sdk, client version: 2.0.1, retry timeout: 300, private key path: ../../rsa_key.p8, private key pass is provided, client store temporary credential: false, browser response timeout: 120000"}
+{"level":"INFO","message":"[8:19:27.060 PM]: Connection[id: a5341937-657b-4a10-83af-a94615571d48] - connection object created successfully."}
+{"level":"INFO","message":"[8:19:27.060 PM]: Connection[id: a5341937-657b-4a10-83af-a94615571d48] - connecting. Associated Snowflake domain: GLOBAL"}
+{"level":"INFO","message":"[8:19:27.082 PM]: Connection[id: a5341937-657b-4a10-83af-a94615571d48] - authentication successful using: SNOWFLAKE_JWT"}
+{"level":"INFO","message":"[8:19:27.082 PM]: Trying to initialize Easy Logging"}
+{"level":"INFO","message":"[8:19:27.086 PM]: No client config detected."}
+{"level":"INFO","message":"[8:19:27.086 PM]: No config file path found. Client config will not be used."}
+{"level":"INFO","message":"[8:19:27.087 PM]: Easy Logging is disabled as no config has been found"}
+{"level":"INFO","message":"[8:19:27.091 PM]: Connection[id: a5341937-657b-4a10-83af-a94615571d48] - connected successfully after 30.4481999874115 milliseconds"}
+{"level":"INFO","message":"[8:21:00.925 PM]: Creating new connection object"}
+{"level":"INFO","message":"[8:21:01.012 PM]: Creating Connection[id: 928d8c3b-4d89-43c3-aff1-71682a1f701b] with host: pppipap-mza35986.snowflakecomputing.com, account: pppipap-mza35986, accessUrl: https://pppipap-mza35986.snowflakecomputing.com, user: dankmimi, role: ACCOUNTADMIN, database: HEALTH_APPLICATION, schema: PUBLIC, warehouse: undefined, proxy was not configured, password is not provided, region: undefined, authenticator: SNOWFLAKE_JWT, ocsp mode: FAIL_OPEN, os: win32, os version: 10.0.19045"}
+{"level":"INFO","message":"[8:21:01.013 PM]: Connection[id: 928d8c3b-4d89-43c3-aff1-71682a1f701b] additional details: passcode in password is provided, passcode is not provided, private key is not provided, application: undefined, client name: snowflake-sdk, client version: 2.0.1, retry timeout: 300, private key path: ../../rsa_key.p8, private key pass is provided, client store temporary credential: false, browser response timeout: 120000"}
+{"level":"INFO","message":"[8:21:01.015 PM]: Connection[id: 928d8c3b-4d89-43c3-aff1-71682a1f701b] - connection object created successfully."}
+{"level":"INFO","message":"[8:21:01.015 PM]: Connection[id: 928d8c3b-4d89-43c3-aff1-71682a1f701b] - connecting. Associated Snowflake domain: GLOBAL"}
+{"level":"INFO","message":"[8:21:01.033 PM]: Connection[id: 928d8c3b-4d89-43c3-aff1-71682a1f701b] - authentication successful using: SNOWFLAKE_JWT"}
+{"level":"INFO","message":"[8:21:01.034 PM]: Trying to initialize Easy Logging"}
+{"level":"INFO","message":"[8:21:01.039 PM]: No client config detected."}
+{"level":"INFO","message":"[8:21:01.039 PM]: No config file path found. Client config will not be used."}
+{"level":"INFO","message":"[8:21:01.040 PM]: Easy Logging is disabled as no config has been found"}
+{"level":"INFO","message":"[8:21:01.046 PM]: Connection[id: 928d8c3b-4d89-43c3-aff1-71682a1f701b] - connected successfully after 30.51350000500679 milliseconds"}
+{"level":"INFO","message":"[8:21:13.713 PM]: Creating new connection object"}
+{"level":"INFO","message":"[8:21:13.799 PM]: Creating Connection[id: 18d26d22-32a4-4c52-96e9-52c1e1ad91da] with host: pppipap-mza35986.snowflakecomputing.com, account: pppipap-mza35986, accessUrl: https://pppipap-mza35986.snowflakecomputing.com, user: dankmimi, role: ACCOUNTADMIN, database: HEALTH_APPLICATION, schema: PUBLIC, warehouse: undefined, proxy was not configured, password is not provided, region: undefined, authenticator: SNOWFLAKE_JWT, ocsp mode: FAIL_OPEN, os: win32, os version: 10.0.19045"}
+{"level":"INFO","message":"[8:21:13.801 PM]: Connection[id: 18d26d22-32a4-4c52-96e9-52c1e1ad91da] additional details: passcode in password is provided, passcode is not provided, private key is not provided, application: undefined, client name: snowflake-sdk, client version: 2.0.1, retry timeout: 300, private key path: ../../rsa_key.p8, private key pass is provided, client store temporary credential: false, browser response timeout: 120000"}
+{"level":"INFO","message":"[8:21:13.802 PM]: Connection[id: 18d26d22-32a4-4c52-96e9-52c1e1ad91da] - connection object created successfully."}
+{"level":"INFO","message":"[8:21:13.802 PM]: Connection[id: 18d26d22-32a4-4c52-96e9-52c1e1ad91da] - connecting. Associated Snowflake domain: GLOBAL"}
+{"level":"INFO","message":"[8:21:13.817 PM]: Connection[id: 18d26d22-32a4-4c52-96e9-52c1e1ad91da] - authentication successful using: SNOWFLAKE_JWT"}
+{"level":"INFO","message":"[8:21:13.818 PM]: Trying to initialize Easy Logging"}
+{"level":"INFO","message":"[8:21:13.821 PM]: No client config detected."}
+{"level":"INFO","message":"[8:21:13.822 PM]: No config file path found. Client config will not be used."}
+{"level":"INFO","message":"[8:21:13.822 PM]: Easy Logging is disabled as no config has been found"}
+{"level":"INFO","message":"[8:21:13.826 PM]: Connection[id: 18d26d22-32a4-4c52-96e9-52c1e1ad91da] - connected successfully after 23.98489999771118 milliseconds"}
+{"level":"INFO","message":"[8:21:45.931 PM]: Creating new connection object"}
+{"level":"INFO","message":"[8:21:46.034 PM]: Creating Connection[id: 33ef7e6b-ec92-4b34-a70a-3428a4237ff5] with host: pppipap-mza35986.snowflakecomputing.com, account: pppipap-mza35986, accessUrl: https://pppipap-mza35986.snowflakecomputing.com, user: dankmimi, role: ACCOUNTADMIN, database: HEALTH_APPLICATION, schema: PUBLIC, warehouse: undefined, proxy was not configured, password is not provided, region: undefined, authenticator: SNOWFLAKE_JWT, ocsp mode: FAIL_OPEN, os: win32, os version: 10.0.19045"}
+{"level":"INFO","message":"[8:21:46.035 PM]: Connection[id: 33ef7e6b-ec92-4b34-a70a-3428a4237ff5] additional details: passcode in password is provided, passcode is not provided, private key is not provided, application: undefined, client name: snowflake-sdk, client version: 2.0.1, retry timeout: 300, private key path: ../../rsa_key.p8, private key pass is provided, client store temporary credential: false, browser response timeout: 120000"}
+{"level":"INFO","message":"[8:21:46.036 PM]: Connection[id: 33ef7e6b-ec92-4b34-a70a-3428a4237ff5] - connection object created successfully."}
+{"level":"INFO","message":"[8:21:46.037 PM]: Connection[id: 33ef7e6b-ec92-4b34-a70a-3428a4237ff5] - connecting. Associated Snowflake domain: GLOBAL"}
+{"level":"INFO","message":"[8:21:46.055 PM]: Connection[id: 33ef7e6b-ec92-4b34-a70a-3428a4237ff5] - authentication successful using: SNOWFLAKE_JWT"}
+{"level":"INFO","message":"[8:21:46.056 PM]: Trying to initialize Easy Logging"}
+{"level":"INFO","message":"[8:21:46.060 PM]: No client config detected."}
+{"level":"INFO","message":"[8:21:46.060 PM]: No config file path found. Client config will not be used."}
+{"level":"INFO","message":"[8:21:46.061 PM]: Easy Logging is disabled as no config has been found"}
+{"level":"INFO","message":"[8:21:46.065 PM]: Connection[id: 33ef7e6b-ec92-4b34-a70a-3428a4237ff5] - connected successfully after 27.790800005197525 milliseconds"}
+{"level":"INFO","message":"[8:22:31.767 PM]: Creating new connection object"}
+{"level":"INFO","message":"[8:22:31.858 PM]: Creating Connection[id: 0f2f35ff-1be3-4e44-be22-94b6941ea035] with host: pppipap-mza35986.snowflakecomputing.com, account: pppipap-mza35986, accessUrl: https://pppipap-mza35986.snowflakecomputing.com, user: dankmimi, role: ACCOUNTADMIN, database: HEALTH_APPLICATION, schema: PUBLIC, warehouse: undefined, proxy was not configured, password is not provided, region: undefined, authenticator: SNOWFLAKE_JWT, ocsp mode: FAIL_OPEN, os: win32, os version: 10.0.19045"}
+{"level":"INFO","message":"[8:22:31.859 PM]: Connection[id: 0f2f35ff-1be3-4e44-be22-94b6941ea035] additional details: passcode in password is provided, passcode is not provided, private key is not provided, application: undefined, client name: snowflake-sdk, client version: 2.0.1, retry timeout: 300, private key path: ../../rsa_key.p8, private key pass is provided, client store temporary credential: false, browser response timeout: 120000"}
+{"level":"INFO","message":"[8:22:31.860 PM]: Connection[id: 0f2f35ff-1be3-4e44-be22-94b6941ea035] - connection object created successfully."}
+{"level":"INFO","message":"[8:22:31.861 PM]: Connection[id: 0f2f35ff-1be3-4e44-be22-94b6941ea035] - connecting. Associated Snowflake domain: GLOBAL"}
+{"level":"INFO","message":"[8:22:31.876 PM]: Connection[id: 0f2f35ff-1be3-4e44-be22-94b6941ea035] - authentication successful using: SNOWFLAKE_JWT"}
+{"level":"INFO","message":"[8:22:31.877 PM]: Trying to initialize Easy Logging"}
+{"level":"INFO","message":"[8:22:31.881 PM]: No client config detected."}
+{"level":"INFO","message":"[8:22:31.882 PM]: No config file path found. Client config will not be used."}
+{"level":"INFO","message":"[8:22:31.882 PM]: Easy Logging is disabled as no config has been found"}
+{"level":"INFO","message":"[8:22:31.887 PM]: Connection[id: 0f2f35ff-1be3-4e44-be22-94b6941ea035] - connected successfully after 25.87440001964569 milliseconds"}
+{"level":"INFO","message":"[8:39:41.549 PM]: Creating new connection object"}
+{"level":"INFO","message":"[8:39:41.638 PM]: Creating Connection[id: 80a43369-bc56-467b-b93e-8cd8f29aea59] with host: pppipap-mza35986.snowflakecomputing.com, account: pppipap-mza35986, accessUrl: https://pppipap-mza35986.snowflakecomputing.com, user: dankmimi, role: ACCOUNTADMIN, database: HEALTH_APPLICATION, schema: PUBLIC, warehouse: undefined, proxy was not configured, password is not provided, region: undefined, authenticator: SNOWFLAKE_JWT, ocsp mode: FAIL_OPEN, os: win32, os version: 10.0.19045"}
+{"level":"INFO","message":"[8:39:41.640 PM]: Connection[id: 80a43369-bc56-467b-b93e-8cd8f29aea59] additional details: passcode in password is provided, passcode is not provided, private key is not provided, application: undefined, client name: snowflake-sdk, client version: 2.0.1, retry timeout: 300, private key path: ../../rsa_key.p8, private key pass is provided, client store temporary credential: false, browser response timeout: 120000"}
+{"level":"INFO","message":"[8:39:41.641 PM]: Connection[id: 80a43369-bc56-467b-b93e-8cd8f29aea59] - connection object created successfully."}
+{"level":"INFO","message":"[8:39:41.641 PM]: Connection[id: 80a43369-bc56-467b-b93e-8cd8f29aea59] - connecting. Associated Snowflake domain: GLOBAL"}
+{"level":"INFO","message":"[8:39:41.656 PM]: Connection[id: 80a43369-bc56-467b-b93e-8cd8f29aea59] - authentication successful using: SNOWFLAKE_JWT"}
+{"level":"INFO","message":"[8:39:41.657 PM]: Trying to initialize Easy Logging"}
+{"level":"INFO","message":"[8:39:41.660 PM]: No client config detected."}
+{"level":"INFO","message":"[8:39:41.661 PM]: No config file path found. Client config will not be used."}
+{"level":"INFO","message":"[8:39:41.661 PM]: Easy Logging is disabled as no config has been found"}
+{"level":"INFO","message":"[8:39:41.665 PM]: Connection[id: 80a43369-bc56-467b-b93e-8cd8f29aea59] - connected successfully after 23.977999985218048 milliseconds"}
+{"level":"INFO","message":"[8:44:33.041 PM]: Creating new connection object"}
+{"level":"INFO","message":"[8:44:33.146 PM]: Creating Connection[id: e1579d42-666d-4ff1-8964-1bb4ab5533a7] with host: pppipap-mza35986.snowflakecomputing.com, account: pppipap-mza35986, accessUrl: https://pppipap-mza35986.snowflakecomputing.com, user: dankmimi, role: ACCOUNTADMIN, database: HEALTH_APPLICATION, schema: PUBLIC, warehouse: undefined, proxy was not configured, password is not provided, region: undefined, authenticator: SNOWFLAKE_JWT, ocsp mode: FAIL_OPEN, os: win32, os version: 10.0.19045"}
+{"level":"INFO","message":"[8:44:33.147 PM]: Connection[id: e1579d42-666d-4ff1-8964-1bb4ab5533a7] additional details: passcode in password is provided, passcode is not provided, private key is not provided, application: undefined, client name: snowflake-sdk, client version: 2.0.1, retry timeout: 300, private key path: ../../rsa_key.p8, private key pass is provided, client store temporary credential: false, browser response timeout: 120000"}
+{"level":"INFO","message":"[8:44:33.149 PM]: Connection[id: e1579d42-666d-4ff1-8964-1bb4ab5533a7] - connection object created successfully."}
+{"level":"INFO","message":"[8:44:33.150 PM]: Connection[id: e1579d42-666d-4ff1-8964-1bb4ab5533a7] - connecting. Associated Snowflake domain: GLOBAL"}
+{"level":"INFO","message":"[8:44:33.169 PM]: Connection[id: e1579d42-666d-4ff1-8964-1bb4ab5533a7] - authentication successful using: SNOWFLAKE_JWT"}
+{"level":"INFO","message":"[8:44:33.170 PM]: Trying to initialize Easy Logging"}
+{"level":"INFO","message":"[8:44:33.174 PM]: No client config detected."}
+{"level":"INFO","message":"[8:44:33.174 PM]: No config file path found. Client config will not be used."}
+{"level":"INFO","message":"[8:44:33.175 PM]: Easy Logging is disabled as no config has been found"}
+{"level":"INFO","message":"[8:44:33.180 PM]: Connection[id: e1579d42-666d-4ff1-8964-1bb4ab5533a7] - connected successfully after 30.50799998641014 milliseconds"}
+{"level":"INFO","message":"[8:53:55.595 PM]: Creating new connection object"}
+{"level":"INFO","message":"[8:53:55.691 PM]: Creating Connection[id: ad8eb4f7-09f2-47e5-8440-531992e61fa2] with host: pppipap-mza35986.snowflakecomputing.com, account: pppipap-mza35986, accessUrl: https://pppipap-mza35986.snowflakecomputing.com, user: dankmimi, role: ACCOUNTADMIN, database: HEALTH_APPLICATION, schema: PUBLIC, warehouse: undefined, proxy was not configured, password is not provided, region: undefined, authenticator: SNOWFLAKE_JWT, ocsp mode: FAIL_OPEN, os: win32, os version: 10.0.19045"}
+{"level":"INFO","message":"[8:53:55.692 PM]: Connection[id: ad8eb4f7-09f2-47e5-8440-531992e61fa2] additional details: passcode in password is provided, passcode is not provided, private key is not provided, application: undefined, client name: snowflake-sdk, client version: 2.0.1, retry timeout: 300, private key path: ../../rsa_key.p8, private key pass is provided, client store temporary credential: false, browser response timeout: 120000"}
+{"level":"INFO","message":"[8:53:55.693 PM]: Connection[id: ad8eb4f7-09f2-47e5-8440-531992e61fa2] - connection object created successfully."}
+{"level":"INFO","message":"[8:53:55.694 PM]: Connection[id: ad8eb4f7-09f2-47e5-8440-531992e61fa2] - connecting. Associated Snowflake domain: GLOBAL"}
+{"level":"INFO","message":"[8:53:55.710 PM]: Connection[id: ad8eb4f7-09f2-47e5-8440-531992e61fa2] - authentication successful using: SNOWFLAKE_JWT"}
+{"level":"INFO","message":"[8:53:55.711 PM]: Trying to initialize Easy Logging"}
+{"level":"INFO","message":"[8:53:55.715 PM]: No client config detected."}
+{"level":"INFO","message":"[8:53:55.715 PM]: No config file path found. Client config will not be used."}
+{"level":"INFO","message":"[8:53:55.716 PM]: Easy Logging is disabled as no config has been found"}
+{"level":"INFO","message":"[8:53:55.720 PM]: Connection[id: ad8eb4f7-09f2-47e5-8440-531992e61fa2] - connected successfully after 25.810000002384186 milliseconds"}
+{"level":"INFO","message":"[8:55:05.184 PM]: Creating new connection object"}
+{"level":"INFO","message":"[8:55:05.271 PM]: Creating Connection[id: c41868ca-d2cd-47f5-aee8-cecaf2b2e9e6] with host: pppipap-mza35986.snowflakecomputing.com, account: pppipap-mza35986, accessUrl: https://pppipap-mza35986.snowflakecomputing.com, user: dankmimi, role: ACCOUNTADMIN, database: HEALTH_APPLICATION, schema: PUBLIC, warehouse: undefined, proxy was not configured, password is not provided, region: undefined, authenticator: SNOWFLAKE_JWT, ocsp mode: FAIL_OPEN, os: win32, os version: 10.0.19045"}
+{"level":"INFO","message":"[8:55:05.272 PM]: Connection[id: c41868ca-d2cd-47f5-aee8-cecaf2b2e9e6] additional details: passcode in password is provided, passcode is not provided, private key is not provided, application: undefined, client name: snowflake-sdk, client version: 2.0.1, retry timeout: 300, private key path: ../../rsa_key.p8, private key pass is provided, client store temporary credential: false, browser response timeout: 120000"}
+{"level":"INFO","message":"[8:55:05.273 PM]: Connection[id: c41868ca-d2cd-47f5-aee8-cecaf2b2e9e6] - connection object created successfully."}
+{"level":"INFO","message":"[8:55:05.274 PM]: Connection[id: c41868ca-d2cd-47f5-aee8-cecaf2b2e9e6] - connecting. Associated Snowflake domain: GLOBAL"}
+{"level":"INFO","message":"[8:55:05.288 PM]: Connection[id: c41868ca-d2cd-47f5-aee8-cecaf2b2e9e6] - authentication successful using: SNOWFLAKE_JWT"}
+{"level":"INFO","message":"[8:55:05.289 PM]: Trying to initialize Easy Logging"}
+{"level":"INFO","message":"[8:55:05.293 PM]: No client config detected."}
+{"level":"INFO","message":"[8:55:05.293 PM]: No config file path found. Client config will not be used."}
+{"level":"INFO","message":"[8:55:05.293 PM]: Easy Logging is disabled as no config has been found"}
+{"level":"INFO","message":"[8:55:05.298 PM]: Connection[id: c41868ca-d2cd-47f5-aee8-cecaf2b2e9e6] - connected successfully after 24.225600004196167 milliseconds"}
+{"level":"INFO","message":"[8:58:40.003 PM]: Creating new connection object"}
+{"level":"INFO","message":"[8:58:40.092 PM]: Creating Connection[id: 544031f2-9314-4905-802c-9253be5f8635] with host: pppipap-mza35986.snowflakecomputing.com, account: pppipap-mza35986, accessUrl: https://pppipap-mza35986.snowflakecomputing.com, user: dankmimi, role: ACCOUNTADMIN, database: HEALTH_APPLICATION, schema: PUBLIC, warehouse: undefined, proxy was not configured, password is not provided, region: undefined, authenticator: SNOWFLAKE_JWT, ocsp mode: FAIL_OPEN, os: win32, os version: 10.0.19045"}
+{"level":"INFO","message":"[8:58:40.093 PM]: Connection[id: 544031f2-9314-4905-802c-9253be5f8635] additional details: passcode in password is provided, passcode is not provided, private key is not provided, application: undefined, client name: snowflake-sdk, client version: 2.0.1, retry timeout: 300, private key path: ../../rsa_key.p8, private key pass is provided, client store temporary credential: false, browser response timeout: 120000"}
+{"level":"INFO","message":"[8:58:40.095 PM]: Connection[id: 544031f2-9314-4905-802c-9253be5f8635] - connection object created successfully."}
+{"level":"INFO","message":"[8:58:40.095 PM]: Connection[id: 544031f2-9314-4905-802c-9253be5f8635] - connecting. Associated Snowflake domain: GLOBAL"}
+{"level":"INFO","message":"[8:58:40.111 PM]: Connection[id: 544031f2-9314-4905-802c-9253be5f8635] - authentication successful using: SNOWFLAKE_JWT"}
+{"level":"INFO","message":"[8:58:40.112 PM]: Trying to initialize Easy Logging"}
+{"level":"INFO","message":"[8:58:40.116 PM]: No client config detected."}
+{"level":"INFO","message":"[8:58:40.116 PM]: No config file path found. Client config will not be used."}
+{"level":"INFO","message":"[8:58:40.117 PM]: Easy Logging is disabled as no config has been found"}
+{"level":"INFO","message":"[8:58:40.121 PM]: Connection[id: 544031f2-9314-4905-802c-9253be5f8635] - connected successfully after 25.605699986219406 milliseconds"}
