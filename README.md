@@ -4,7 +4,7 @@
 ([https://www.youtube.com/watch?v=ek1j272iAmc](https://www.youtube.com/watch?v=rbtTgP-yoMg))
 
 ### Required installations
-`npm install cors axios express snowflake-sdk crypto body-parser react`
+`npm install cors axios express snowflake-sdk crypto body-parser react nodemon`
 
 ### To run application
 Start servers:
@@ -23,3 +23,4 @@ Start python flask app
 Key-pair authentication generated using openssl
 https://docs.snowflake.com/en/user-guide/key-pair-auth
 
+Snowflake connection in db.js
